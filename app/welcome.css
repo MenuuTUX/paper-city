@@ -98,3 +98,8 @@
 .ai-guide-match small{flex-basis:100%}
 .nav-ai{display:inline-flex;align-items:center;gap:6px;color:var(--rust)!important;font-weight:600}
 @media(max-width:760px){.ai-guide{padding:18px 16px}.ai-guide-head{flex-wrap:wrap}.ai-guide-badge{margin-left:56px}.ai-guide-row{flex-direction:column}.ai-guide-row .primary-button{justify-content:center}.ai-guide-answer p{font-size:21px}}
+
+.try-example{display:flex;flex-direction:column;gap:8px}
+.try-example>button{display:flex;align-items:center;justify-content:space-between;gap:10px;width:100%;padding:11px 13px;border:1px solid var(--line);border-radius:10px;background:var(--white);font:inherit;font-size:14px;line-height:1.4;text-align:left;color:var(--ink);cursor:pointer}
+.try-example>button:hover{border-color:var(--rust)}
+.try-example>button small{display:block;margin-bottom:2px;font-size:11px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--rust)}
