@@ -2,6 +2,7 @@
 
 import dynamic from 'next/dynamic';
 import { ProjectSearch, PinnedPlaces, StageDisclosure } from './project-tools';
+import { AiGuide, type GuideAnswer } from './ai-guide';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { ArrowDown, ArrowLeft, ArrowRight, ArrowUpRight, BookOpen, Bookmark, Check, ChevronDown, ChevronLeft, ChevronRight, Clipboard, Download, ExternalLink, FileText, HelpCircle, ImagePlus, Link2, MapPin, Play, Search, SlidersHorizontal, Sparkles, X } from 'lucide-react';
 import { formatNumber, getStage, makeBriefing, METRICS, selectProjects, STAGES, summarize, type Metric, type Project, type Stage, type StageFilter } from '@/lib/housing';
@@ -176,6 +177,10 @@ export default function PaperCity({ snapshot }: { snapshot: Snapshot }) {
     const frame = requestAnimationFrame(scrollToClaim);
     return () => cancelAnimationFrame(frame);
   }, [panel, urlReady, journey]);
+  function applyGuide(a: GuideAnswer) {
+    setMetric(a.metric); setStage(a.stage); setWard(a.ward); setQuery(a.query); setSelectedId(null); setPanel('projects');
+    requestAnimationFrame(() => document.getElementById('explore')?.scrollIntoView({ behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth', block: 'start' }));
+  }
   function showClaims() { setPanel('claim'); setSelectedId(null); if (panel === 'claim') scrollToClaim(); }
 
   async function copy(text: string) {
@@ -198,6 +203,7 @@ export default function PaperCity({ snapshot }: { snapshot: Snapshot }) {
           <h1 id="welcome-title">Housing promises,<br/>made clear.</h1>
           <p className="welcome-explanation">A promise to build homes isn’t the same as a home someone can move into. Follow Toronto’s affordable housing projects from planning to occupancy, using the City’s own records.</p>
           <div className="welcome-actions"><button className="primary-button" onClick={() => changeChapter(0)}>Start here: take the tour <ArrowRight size={18}/></button><button className="text-button" onClick={showClaims}>I have a housing headline <ArrowUpRight size={16}/></button></div>
+          <AiGuide onTour={() => changeChapter(0)} onClaim={showClaims} onFilter={applyGuide}/>
           <p className="civic-purpose">For Toronto’s 2026 municipal election. Independent and candidate-neutral.</p>
         </div>
         {introductionProject && <aside className="welcome-example" aria-label="A real example from the City records">

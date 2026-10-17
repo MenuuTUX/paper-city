@@ -7,15 +7,15 @@ An interactive 3D map uses real City coordinates and recorded housing counts. A 
 ## Run locally
 
 ```sh
-npm install
-npm run dev
+bun install
+bun run dev
 ```
 
 Open http://localhost:3000.
 
 ## Deploy to Vercel
 
-Import this directory as a Next.js project in Vercel. The default build command is `npm run build`. No database, persistent server, cron job, or map API key is needed.
+Import this directory as a Next.js project in Vercel. The default build command is `bun run build`. No database, persistent server, cron job, or map API key is needed.
 
 The paper map, claim guide, and screenshot OCR work without accounts or API keys. Screenshot recognition uses a locally served Tesseract WASM engine and English model. Images and claim text remain in the visitor’s browser.
 
@@ -45,9 +45,9 @@ Optionally set `NEXT_PUBLIC_SITE_URL` to the final public origin for social meta
 Refresh before a later deployment:
 
 ```sh
-npm run data:refresh
-npm test
-npm run build
+bun run data:refresh
+bun test
+bun run build
 ```
 
 The refresh script checks unique IDs, coordinates, and nonnegative counts and only writes a complete successful download. It fetches metadata first, discovers the active City resource, and paginates all records.
@@ -64,9 +64,9 @@ The refresh script checks unique IDs, coordinates, and nonnegative counts and on
 ## Check
 
 ```sh
-npm test
-npm run typecheck
-npm run build
+bun test
+bun run typecheck
+bun run build
 ```
 
 The focused tests check snapshot validity, non-overlapping stage sums, permit/construction distinctions, combined filters, category isolation, explicit claim interpretation, and exported briefing scope.
@@ -97,3 +97,9 @@ uvx fixmyslop scan app components lib scripts tests --no-static --fail-on medium
 
 This checks authored application code, excluding generated map/OCR assets and the City data snapshot. The before/after reports are in `artifacts/fixmyslop-before.json` and `artifacts/fixmyslop-after.json`. Review the desktop and mobile layouts alongside the findings. A clean static scan does not assess map accuracy or visual quality.
 
+
+## AI guide
+
+The homepage has an "Ask the guide" box. It sends the question to `app/api/guide/route.ts`, which gives Gemini only the snapshot totals and ward list, and gets back a short reply plus one action (start the tour, open the headline checker, or filter the map). The response is schema-constrained and validated. It never judges a claim or recommends a candidate. It needs `GEMINI_API_KEY`; without it the box offers the tour instead.
+
+This project uses [Bun](https://bun.sh) for installs and scripts (`bun.lock`).
