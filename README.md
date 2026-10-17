@@ -78,7 +78,7 @@ The focused tests check snapshot validity, non-overlapping stage sums, permit/co
 3. Select “Read a claim”. Use the City’s 65,000-home target as an example, confirm the extracted fields, and inspect the source guide’s target/delivery and rent-control/affordability distinctions.
 4. Save a field note. Share its URL to preserve the current filters and selected project.
 
-Primary challenge: School of Cities. The offline text guide and OCR are not submitted as use of the Gemini API. No candidate rankings, endorsements, or election predictions.
+Primary challenge: School of Cities. Claim reading uses Google Gemini through a server route when `GEMINI_API_KEY` is set, and falls back to the offline rule-based guide and on-device OCR otherwise. No candidate rankings, endorsements, or election predictions.
 
 ## OCR assets
 
