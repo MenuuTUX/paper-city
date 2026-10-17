@@ -78,7 +78,7 @@ The focused tests check snapshot validity, non-overlapping stage sums, permit/co
 3. Select “Read a claim”. Use the City’s 65,000-home target as an example, confirm the extracted fields, and inspect the source guide’s target/delivery and rent-control/affordability distinctions.
 4. Save a field note. Share its URL to preserve the current filters and selected project.
 
-Primary challenge: School of Cities. Claim reading uses Google Gemini through a server route when `GEMINI_API_KEY` is set, and falls back to the offline rule-based guide and on-device OCR otherwise. No candidate rankings, endorsements, or election predictions.
+Primary challenge: School of Cities. Also entered for **[MLH] Best Use of Gemini API**: the claim reader sends a housing headline to Google Gemini through a server route (`app/api/interpret/route.ts`) with a fixed JSON schema, validates the response, and has the user confirm every field. It gives no true/false verdict. The key stays server-side (`GEMINI_API_KEY`). Without it, or if Gemini fails, the app falls back to the offline rule-based guide and on-device OCR. No candidate rankings, endorsements, or election predictions.
 
 ## OCR assets
 
