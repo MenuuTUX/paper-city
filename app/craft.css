@@ -1,0 +1,71 @@
+/* Fffuel nnnoise texture, generated for Paper City. All effects stay on-device. */
+.hero::before,.how-section::before,.closing-note::before,.journey-card::before{content:"";position:absolute;inset:0;background:url('/paper-grain.svg') repeat;opacity:.15;pointer-events:none;border-radius:inherit}
+.hero>*,.how-section>*,.closing-note>*{position:relative}
+.hero{padding-block:35px 43px;gap:35px}
+.hero-copy{z-index:1}
+.hero h1 em{position:relative;display:inline-block}
+.hero h1 em::after{content:"";position:absolute;left:-4%;right:-8%;bottom:-8px;height:13px;background:var(--rust);opacity:.6;clip-path:polygon(0 46%,28% 23%,61% 20%,99% 48%,100% 62%,61% 39%,28% 42%,1% 67%);transform:rotate(-2deg)}
+.hero-aside{width:400px;min-height:300px;padding:0;margin-right:2%;overflow:visible;gap:20px}
+.city-model{width:100%;position:relative}
+.model-edition{display:block;font-size:8px;letter-spacing:1.4px;color:var(--muted);margin-left:24px}
+.model-stage{position:relative;height:220px;isolation:isolate;--lean:0deg;perspective:800px}
+.model-contours{position:absolute;width:100%;height:100%;inset:0;stroke:var(--sage);stroke-width:.7;opacity:.55;mask-image:radial-gradient(ellipse,var(--ink) 35%,transparent 73%)}
+.model-route{stroke:var(--rust);stroke-width:1.4;stroke-dasharray:3 5}
+.model-contours circle{stroke:var(--rust);fill:var(--paper)}
+.city-model .paper-sculpture{top:24px;width:200px;height:150px;scale:1.2;transform:translateX(-50%) rotateY(var(--lean));transition:transform .35s ease;z-index:2}
+.city-model .paper-building{animation:none;transform-origin:50% 100%;transition:transform 1.1s cubic-bezier(.22,1,.36,1),filter .8s}
+.city-model.is-flat .paper-building{transform:translateY(13px) rotateX(-14deg) rotateY(-35deg) scaleY(.035);filter:saturate(.3)}
+.city-model .sculpture-ground{background:repeating-linear-gradient(90deg,transparent 0 21px,color-mix(in srgb, var(--sage) 18.8%, transparent) 21px 22px),repeating-linear-gradient(0deg,transparent 0 21px,color-mix(in srgb, var(--sage) 18.8%, transparent) 21px 22px),var(--surface)}
+.city-model.is-raised .building-one{transition-delay:90ms}
+.city-model.is-raised .building-two{transition-delay:170ms}
+.city-model.is-raised .building-three{transition-delay:250ms}
+.model-axis{position:absolute;right:37px;top:34px;display:flex;flex-direction:column;gap:5px;font-size:8px;color:var(--muted);transform:rotate(25deg)}
+.model-axis>span{font-size:23px;font-weight:300}
+.model-caption{position:absolute;bottom:4px;left:0;right:0;text-align:center;font:italic 19px var(--serif);color:var(--muted)}
+.model-switch{display:flex;gap:4px;justify-content:center;margin-top:12px}
+.model-switch button{display:flex;align-items:center;gap:9px;padding:11px 15px;border:1px solid var(--line);font-size:11px;color:var(--muted);min-height:40px;transition:background .2s,color .2s}
+.model-switch button span{font-size:8px;opacity:.65;font-variant-numeric:tabular-nums}
+.model-switch button[aria-pressed=true]{background:var(--surface);border-color:var(--clay);color:var(--ink)}
+.model-switch button:hover{background:var(--line)}
+.model-disclaimer{display:block;text-align:center;font-size:8px;color:var(--muted);margin-top:10px}
+.hero-aside>.journey-button{padding:12px 21px;min-height:44px}
+.how-section{position:relative;isolation:isolate}
+.how-steps{counter-reset:field-step}
+.how-steps>div{position:relative;padding-left:41px;border-bottom:1px solid var(--line);counter-increment:field-step;transition:transform .25s}
+.how-steps>div::before{content:"0" counter(field-step);position:absolute;left:0;top:27px;font:italic 21px var(--serif);color:var(--rust)}
+.how-steps>div:hover{transform:translateX(5px)}
+.how-steps>div>svg{transition:transform .3s}
+.how-steps>div:hover>svg{transform:rotate(-12deg) translateY(-3px)}
+.closing-note::after{content:"";position:absolute;right:-20px;top:-115px;width:370px;height:370px;border:1px solid color-mix(in srgb, var(--sage) 23.1%, transparent);border-radius:50%;box-shadow:0 0 0 24px color-mix(in srgb, var(--sage) 8.2%, transparent),0 0 0 48px color-mix(in srgb, var(--sage) 6.3%, transparent),0 0 0 72px color-mix(in srgb, var(--sage) 4.7%, transparent);pointer-events:none}
+.closing-note>*{z-index:1}
+.journey-card::before{z-index:-1;opacity:.1}
+.journey-card{isolation:isolate;transform-origin:bottom left}
+@media(prefers-reduced-motion:no-preference){
+  .city-model{animation:model-arrive 1s cubic-bezier(.22,1,.36,1) both}
+  @keyframes model-arrive{from{opacity:0;transform:translateY(15px)}to{opacity:1;transform:translateY(0)}}
+  @supports(animation-timeline:view()){
+    .how-steps>div{animation:field-arrive linear both;animation-timeline:view();animation-range:entry 0% entry 85%}
+    @keyframes field-arrive{from{opacity:.3;transform:translateY(25px)}to{opacity:1;transform:translateY(0)}}
+  }
+}
+@media(max-width:1000px) and (min-width:761px){.hero-aside{width:330px;margin-right:0}.city-model .paper-sculpture{scale:1.1}.hero{gap:20px}}
+@media(max-width:760px){
+  .hero{flex-wrap:wrap;overflow:visible;padding-bottom:30px;gap:30px}
+  .hero-copy{max-width:none;width:100%}
+  .hero h1{font-size:64px}
+  .hero h1>span{display:inline}
+  .hero h1>span+span::before{content:" "}
+  .hero-aside{width:100%;min-height:0;overflow:visible;margin:0;align-self:auto}
+  .city-model{max-width:390px;margin:auto}
+  .model-stage{height:210px}
+  .model-edition{margin-left:25px;font-size:8px}
+  .city-model .paper-sculpture{scale:1.1;margin-left:0;top:22px}
+  .model-caption{font-size:19px}
+  .hero-aside>.journey-button{display:none}
+  .model-switch button{min-height:44px;font-size:11px}
+  .model-disclaimer{font-size:9px}
+  .how-steps>div{padding-left:37px}
+  .how-steps>div::before{top:23px}
+  .closing-note::after{width:240px;height:240px;top:-50px;right:-90px}
+}
+@media(prefers-reduced-motion:reduce){.city-model .paper-building,.city-model .paper-sculpture,.how-steps>div,.how-steps>div>svg{transition:none;animation:none}}

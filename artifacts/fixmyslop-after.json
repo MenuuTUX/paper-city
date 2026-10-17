@@ -1,0 +1,15 @@
+{
+  "repo_path": "/Users/shib/Downloads/hack",
+  "scan_time_s": 2.716609001159668,
+  "total_files": 15,
+  "scanned_files": 14,
+  "issues": [],
+  "slop_score": 0.0,
+  "model_used": "rules",
+  "scan_mode": "rules",
+  "tool_versions": {},
+  "lines_scanned": 1078,
+  "grade": "A",
+  "design_context": "",
+  "baselined": 0
+}

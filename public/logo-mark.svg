@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="228 162 344 451" width="100%" height="100%">
+  <defs>
+    <!-- Crane Paper Gradients -->
+    <linearGradient id="wingBack" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f3efe6" />
+      <stop offset="100%" stop-color="#cbbfa8" />
+    </linearGradient>
+
+    <linearGradient id="wingBackFold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e5dec9" />
+      <stop offset="100%" stop-color="#b5a890" />
+    </linearGradient>
+
+    <linearGradient id="tailGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EFECE6" />
+      <stop offset="100%" stop-color="#bfa890" />
+    </linearGradient>
+
+    <linearGradient id="neckLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7f4ed" />
+      <stop offset="100%" stop-color="#d8ceb8" />
+    </linearGradient>
+
+    <linearGradient id="neckDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#787065" />
+      <stop offset="100%" stop-color="#4a443c" />
+    </linearGradient>
+
+    <linearGradient id="wingFrontTop" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#e3dac9" />
+    </linearGradient>
+
+    <linearGradient id="wingFrontRight" x1="0%" y1="0%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#f2ece1" />
+      <stop offset="100%" stop-color="#d5c8b3" />
+    </linearGradient>
+
+    <linearGradient id="baseLeft" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e5dec9" />
+      <stop offset="100%" stop-color="#b8ab96" />
+    </linearGradient>
+
+    <!-- House Gradients -->
+    <linearGradient id="houseFront" x1="20%" y1="80%" x2="80%" y2="20%">
+      <stop offset="0%" stop-color="#f6c177" />
+      <stop offset="40%" stop-color="#dca259" />
+      <stop offset="100%" stop-color="#8c673a" />
+    </linearGradient>
+
+    <linearGradient id="houseSide" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#786655" />
+      <stop offset="100%" stop-color="#453c35" />
+    </linearGradient>
+
+    <linearGradient id="roofTop" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7f4ed" />
+      <stop offset="100%" stop-color="#cfc5b2" />
+    </linearGradient>
+
+    <linearGradient id="windowGlow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#ffdfa0" />
+    </linearGradient>
+  </defs>
+
+  <!-- ================= BACK LAYER (CRANE) ================= -->
+  <!-- Back Wing Main -->
+  <polygon points="287,182 396,302 350,432 293,425" fill="url(#wingBack)" />
+  <!-- Back Wing Fold -->
+  <polygon points="287,182 350,432 396,302" fill="url(#wingBackFold)" opacity="0.6" />
+  <line x1="287" y1="182" x2="355" y2="395" stroke="#a69882" stroke-width="1.5" />
+
+  <!-- Tail -->
+  <polygon points="459,394 535,190 486,431" fill="url(#tailGrad)" />
+  <polygon points="459,394 486,431 440,460" fill="#a89c8a" />
+
+
+  <!-- ================= MIDDLE LAYER (HOUSE) ================= -->
+  <g id="house">
+    <!-- Left Base Fold behind house -->
+    <polygon points="293,425 350,432 340,490" fill="#cbbda6" />
+
+    <!-- House Front Wall -->
+    <polygon points="350,418 375,375 405,432 405,492 350,515" fill="url(#houseFront)" />
+
+    <!-- House Side Wall -->
+    <polygon points="405,432 459,418 459,465 405,492" fill="url(#houseSide)" />
+
+    <!-- Roof Underside / Overhang Shadow -->
+    <polygon points="341,412 375,358 411,422 405,432 375,375 350,418" fill="#5c5248" />
+    
+    <!-- Roof Front Left Edge -->
+    <polygon points="338,408 375,346 375,358 341,412" fill="#e6dfd3" />
+
+    <!-- Main Roof Slope -->
+    <polygon points="375,346 435,346 467,406 411,422" fill="url(#roofTop)" />
+    <polygon points="411,422 467,406 465,414 405,432" fill="#b5aa99" />
+
+    <!-- Chimney -->
+    <!-- Chimney Front -->
+    <polygon points="414,328 424,328 424,365 414,362" fill="#e8e2d5" />
+    <!-- Chimney Side -->
+    <polygon points="424,328 432,331 432,374 424,365" fill="#9c9283" />
+    <!-- Chimney Shadow on Roof -->
+    <polygon points="424,365 432,374 445,372 432,360" fill="#aba090" />
+
+    <!-- Windows & Door (Glowing) -->
+    <!-- Top Arched Window (4 panes) -->
+    <!-- Top Left -->
+    <path d="M 369 406 C 369 398, 374 396, 375 396 L 375 408 L 369 408 Z" fill="url(#windowGlow)" />
+    <!-- Top Right -->
+    <path d="M 378 396 C 379 396, 384 398, 384 406 L 384 408 L 378 408 Z" fill="url(#windowGlow)" />
+    <!-- Bottom Left -->
+    <polygon points="369,411 375,411 375,421 369,420" fill="url(#windowGlow)" />
+    <!-- Bottom Right -->
+    <polygon points="378,411 384,411 384,422 378,421" fill="url(#windowGlow)" />
+
+    <!-- Front Door -->
+    <polygon points="369,446 383,448 383,502 369,508" fill="url(#windowGlow)" />
+
+    <!-- Side Wall Windows -->
+    <polygon points="417,448 426,445 426,478 417,482" fill="url(#windowGlow)" />
+    <polygon points="435,442 444,439 444,468 435,472" fill="url(#windowGlow)" />
+  </g>
+
+
+  <!-- ================= FRONT LAYER (CRANE) ================= -->
+  <!-- Crane Base / Belly Shadows -->
+  <polygon points="338,571 344,522 356,571" fill="#4f4841" />
+  <polygon points="369,508 416,527 356,593" fill="url(#baseLeft)" />
+  <polygon points="416,527 405,553 356,593" fill="#b5a895" />
+  <polygon points="416,527 463,544 451,575 405,553" fill="#8d8273" />
+  <polygon points="416,527 480,520 463,544" fill="#635a4f" />
+
+  <!-- Neck & Head -->
+  <!-- Neck Left Light Plane -->
+  <polygon points="292,316 338,571 356,593 369,508" fill="url(#neckLight)" />
+  <!-- Neck Inner Dark Shadow -->
+  <polygon points="292,316 344,522 338,571" fill="url(#neckDark)" />
+  <!-- Neck Right Light Plane -->
+  <polygon points="292,316 322,340 369,508" fill="url(#wingFrontTop)" />
+
+  <!-- Head -->
+  <polygon points="292,316 248,384 276,348" fill="url(#neckLight)" />
+  <polygon points="292,316 276,348 292,345" fill="#9c9181" />
+  <polygon points="276,348 248,384 292,345" fill="#baa892" />
+
+  <!-- Front Right Wing -->
+  <!-- Right Wing Sub-fold (underneath) -->
+  <polygon points="369,508 463,489 416,527" fill="#aba090" />
+  <line x1="416" y1="527" x2="405" y2="553" stroke="#524a41" stroke-width="2" />
+  <line x1="416" y1="527" x2="424" y2="508" stroke="#524a41" stroke-width="2" />
+
+  <!-- Right Wing Main -->
+  <polygon points="435,465 466,448 552,557 463,489" fill="url(#wingFrontRight)" />
+  <polygon points="369,508 435,465 552,557 463,489" fill="url(#wingFrontTop)" />
+</svg>

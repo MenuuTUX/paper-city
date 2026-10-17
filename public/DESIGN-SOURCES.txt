@@ -1,0 +1,13 @@
+Paper grain generated with Fffuel nnnoise (sage #69795d):
+https://www.fffuel.co/nnnoise/
+Discovered through https://www.designeer.xyz/utilities
+Fffuel permits personal and commercial use without required attribution.
+Its assets are not CC0. See https://www.fffuel.co/license/
+
+Interactive city illustration and contour linework created for Paper City.
+The illustration is decorative and does not represent project data.
+
+Viora UI interaction references, reimplemented for Paper City's native controls:
+Action Search Bar, Pinned Places, Fluid Tabs, Filter Motion, Accordion, Scroll Progress.
+https://www.vioraui.dedyn.io/components
+https://github.com/Kartikmhatre/VioraUI

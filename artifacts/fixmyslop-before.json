@@ -1,0 +1,61 @@
+{
+  "repo_path": "/Users/shib/Downloads/hack",
+  "scan_time_s": 2.2274320125579834,
+  "total_files": 15,
+  "scanned_files": 14,
+  "issues": [
+    {
+      "file_path": "/Users/shib/Downloads/hack/components/housing-map.tsx",
+      "line_start": 5,
+      "line_end": 5,
+      "severity": "HIGH",
+      "category": "Dependencies",
+      "rule_id": "deps/phantom-import",
+      "title": "Package may not exist",
+      "description": "`geojson` is not declared, installed, or local. This package is not in the standard library, not a local module, not declared in any manifest, and not installed. AI models regularly invent package names \u2014 and attackers register those names with malware ('slopsquatting').",
+      "evidence": "import type { Feature } from 'geojson';",
+      "suggested_fix": "Check whether the package really exists and is the one you meant. Replace it with a real, maintained package (or the standard library) and declare it in the manifest \u2014 don't just `pip install`/`npm install` the name.",
+      "diff": "",
+      "source_tool": "fixmyslop",
+      "applied": false
+    },
+    {
+      "file_path": "/Users/shib/Downloads/hack/app/taste.css",
+      "line_start": 63,
+      "line_end": 63,
+      "severity": "LOW",
+      "category": "UI Slop",
+      "rule_id": "ui/neon-glow",
+      "title": "Colored neon glow shadows",
+      "description": "2 occurrences in this file (lines 63, 136). Big colored glows and glowing orbs (shadow-[0_0_40px_rgba(\u2026)], radial-gradient(color, transparent)) are the dark-mode AI template look in any hue \u2014 mint, cyan or violet. They blur edges and compete with content.",
+      "evidence": ".map-stage-filter{bottom:54px;border:0;border-radius:3px;background:#fffdf5f5;box-shadow:0 3px 20px #152f1725;padding:5px}",
+      "suggested_fix": "Use neutral elevation from the theme (shadow-sm/shadow-md or a 1px border). Reserve color for the one primary action.",
+      "diff": "",
+      "source_tool": "fixmyslop",
+      "applied": false
+    },
+    {
+      "file_path": "/Users/shib/Downloads/hack/app/taste.css",
+      "line_start": 1,
+      "line_end": 1,
+      "severity": "MEDIUM",
+      "category": "UI Slop",
+      "rule_id": "ui/palette-sprawl",
+      "title": "Palette sprawl",
+      "description": "94 distinct hardcoded colors across the project (71 in this file). Dozens of distinct hardcoded hex colors means there is no design system \u2014 every screen drifts a little.",
+      "evidence": "",
+      "suggested_fix": "Define color tokens (CSS variables or tailwind theme) for the handful of colors you need and replace raw hex values with them.",
+      "diff": "",
+      "source_tool": "fixmyslop",
+      "applied": false
+    }
+  ],
+  "slop_score": 16.4,
+  "model_used": "rules",
+  "scan_mode": "rules",
+  "tool_versions": {},
+  "lines_scanned": 1079,
+  "grade": "B",
+  "design_context": "- Surfaces & text tokens available: `muted` \u2014 use these instead of raw colors.\n- Icon library: `lucide-react` \u2014 use it for every icon; never emoji.",
+  "baselined": 0
+}

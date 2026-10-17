@@ -1,0 +1,77 @@
+/* TasteSkill: a clear civic question, a real record as proof, one starting action. */
+.brand{gap:12px;letter-spacing:-1px;font-size:27px;font-weight:550;color:var(--ink)}
+.brand-mark{display:block;width:43px;height:57px;object-fit:contain;flex-shrink:0}
+.brand>span{white-space:nowrap}
+.mobile-record-link{display:none}
+.welcome-hero{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(270px,1fr);align-items:center;gap:65px;padding-block:44px 46px}
+.welcome-hero::before{display:none}
+.welcome-hero h1{font:400 clamp(50px,5.7vw,85px)/.99 var(--serif);letter-spacing:-2px;margin:0 0 25px;text-wrap:balance}
+.welcome-hero .welcome-explanation{font-size:17px;line-height:1.6;max-width:570px;color:var(--ink);margin:0}
+.welcome-actions{display:flex;align-items:center;flex-wrap:wrap;gap:22px;margin-top:25px}
+.welcome-actions>.primary-button{min-height:48px;padding:14px 19px;font-size:14px}
+.welcome-actions>.text-button{font-size:13px;min-height:44px;color:var(--ink)}
+.welcome-hero .civic-purpose{font-size:12px;line-height:1.6;margin:19px 0 0;color:var(--muted);max-width:540px}
+.welcome-example{background:var(--surface);padding:30px 30px 26px;max-width:400px;justify-self:end}
+.welcome-example h2{font:400 38px/1.04 var(--serif);letter-spacing:-.7px;margin:0 0 23px}
+.welcome-example>p{font-size:15px;line-height:1.7;max-width:330px;color:var(--ink);margin:0 0 15px}
+.welcome-example>p>strong{font-weight:600}
+.welcome-example>.text-button{font-size:13px;min-height:44px;color:var(--ink);text-align:left}
+.welcome-example>small{display:block;font-size:11px;color:var(--muted);line-height:1.6;margin-top:16px}
+.start-path{display:flex;justify-content:space-between;align-items:center;gap:40px;padding:0 0 29px}
+.start-path>p{font-size:14px;line-height:1.7;max-width:780px;margin:0;color:var(--ink)}
+.start-path>p>strong{font-weight:600}
+.start-path>button{display:flex;align-items:center;gap:8px;font-size:12px;min-height:44px;flex-shrink:0}
+.site-header nav>button,.site-header nav>a{font-size:12px}
+.header-tools .header-briefing{display:none}
+.header-pins>span{font-size:12px}
+.panel-intro h2{margin-top:0}
+.panel-intro>p{font-size:14px;color:var(--ink)}
+.claim-description{font-size:14px;color:var(--ink);line-height:1.7}
+.claim-panel>.panel-kicker{font-size:12px;letter-spacing:0;color:var(--muted)}
+.claim-panel h2{font-size:36px;line-height:1.06}
+.how-heading h2{font-size:48px;line-height:1.05;margin-top:0}
+.how-heading>p,.how-steps p{font-size:15px;color:var(--ink);line-height:1.65}
+.how-steps>div{padding-left:0;border:0}
+.how-steps>div::before{display:none}
+.how-section::before,.closing-note::before,.closing-note::after{display:none}
+.closing-note{background:var(--surface);padding-block:36px}
+.closing-note p{font-size:35px;line-height:1.15}
+.journey-mode .brand-mark{width:46px;height:58px}
+.journey-mode:has(.google-map-scene) .journey-top .brand>span{color:var(--white)}
+.journey-top>span:not(.brand){font-size:12px;letter-spacing:0;text-transform:none}
+.journey-card>.eyebrow{font-size:12px;letter-spacing:0;text-transform:none}
+.journey-card::before{display:none}
+.journey-card{background:var(--white);box-shadow:none}
+.journey-card h2{font-size:41px;line-height:1.03}
+.journey-card>p{font-size:14px;line-height:1.65;color:var(--ink)}
+.journey-hint{letter-spacing:0;font-size:11px}
+.journey-progress small{font-size:11px}
+.site-footer .brand-mark{width:47px;height:61px}
+@media(max-width:1250px){.site-header nav{display:flex;gap:22px}.header-search>span,.header-search>kbd{display:none}.header-search{padding:11px}.header-pins>span{display:none}.header-pins{padding:11px}.welcome-hero{gap:35px}.welcome-example{padding:27px}.welcome-hero h1{font-size:66px}}
+@media(max-width:1000px){.site-header nav{gap:17px}.site-header nav>button,.site-header nav>a{font-size:11px}.welcome-hero{grid-template-columns:1.3fr 1fr;gap:26px}.welcome-hero h1{font-size:56px}.welcome-example h2{font-size:31px}.welcome-example>p{font-size:14px}.welcome-hero .welcome-explanation{font-size:16px}.welcome-actions{gap:8px}.start-path{gap:20px;align-items:flex-start}.start-path>button{max-width:170px;text-align:left}}
+@media(max-width:760px){
+  .site-header nav{display:none}.site-header .brand{font-size:25px;gap:10px}.brand-mark{width:36px;height:48px}.header-tools{gap:7px}.header-search,.header-pins{width:42px;min-height:44px}
+  .welcome-hero{display:flex;flex-direction:column;align-items:stretch;gap:30px;padding-block:28px 30px;overflow:visible}
+  .welcome-hero h1{font-size:clamp(39px,11.7vw,60px);line-height:1.02;letter-spacing:-1px;margin:0 0 22px;text-wrap:initial}
+  .welcome-hero .hero-copy{width:auto;max-width:none}
+  .welcome-hero.hero .welcome-explanation{font-size:16px;line-height:1.65;max-width:none}
+  .welcome-actions{align-items:stretch;flex-direction:column;gap:8px;margin-top:22px}
+  .welcome-actions>.primary-button{justify-content:center;min-height:50px;font-size:14px}
+  .welcome-actions>.text-button{justify-content:center;min-height:44px;font-size:13px}
+  .welcome-hero .civic-purpose{font-size:12px;margin-top:13px}
+  .welcome-example{max-width:none;width:100%;padding:25px}
+  .welcome-example h2{font-size:34px;margin-bottom:18px}
+  .welcome-hero .welcome-example>p{font-size:15px;line-height:1.7;max-width:none}
+  .welcome-example>.text-button{font-size:13px}
+  .start-path{display:block;padding:0 0 23px}.start-path>p{font-size:14px}.start-path>button{max-width:none;font-size:12px;margin-top:8px}
+  .panel-intro h2{font-size:34px}.panel-intro>p{font-size:14px}
+  .mobile-record-link{display:flex;align-items:center;gap:10px;position:absolute;bottom:112px;left:15px;background:var(--white);padding:13px 16px;font-size:12px;min-height:44px}
+  .map-frame:has(.mobile-record-link) .map-guide{display:none}
+  .claim-panel{scroll-margin-top:18px}
+  .how-heading h2{font-size:40px}.how-heading>p,.how-steps p{font-size:15px}
+  .closing-note p{font-size:31px}
+  .journey-card h2{font-size:33px}.journey-card>p{font-size:13px;line-height:1.65}.journey-card>.eyebrow{font-size:10px}
+  .journey-hint{font-size:9px}.journey-progress small{font-size:9px}
+  .journey-mode .brand-mark{width:33px;height:43px}.journey-mode .brand{font-size:22px}
+}
+@media(prefers-reduced-motion:no-preference){.welcome-hero .hero-copy,.welcome-example{animation:welcome-arrive .5s ease-out both}.welcome-example{animation-delay:.1s}@keyframes welcome-arrive{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}}

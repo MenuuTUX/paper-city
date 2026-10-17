@@ -1,0 +1,4718 @@
+{
+  "source": "https://open.toronto.ca/dataset/upcoming-and-recently-completed-affordable-housing-units/",
+  "api": "https://ckan0.cf.opendata.inter.prod-toronto.ca/api/3/action/datastore_search?resource_id=1cef72d8-4bc0-4705-a4ba-998bcb4605ef",
+  "title": "Affordable Housing Pipeline",
+  "updated": "2026-09-30 12:25:09.197534",
+  "retrieved": "2026-10-17T02:03:06.288Z",
+  "projects": [
+    {
+      "id": "P0058",
+      "address": "373 Front St E",
+      "addresses": "West Don Lands (phase 2 in PH5.3) Block 3/4/7 for development unit count (373 Front Street East/90 Mill St)",
+      "status": "Occupied",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 275,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.35990217,
+        43.65168059
+      ]
+    },
+    {
+      "id": "P0332",
+      "address": "985 Woodbine Ave",
+      "addresses": "985 Woodbine Avenue and 2078, 2086, 2100, 2102 and 2106 Danforth Avenue",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 19,
+      "wardName": "Beaches-East York",
+      "affordable": 12,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.31250395,
+        43.68636778
+      ]
+    },
+    {
+      "id": "P0107",
+      "address": "976 College St",
+      "addresses": "976 College Street",
+      "status": "Planning Applications Under Review",
+      "ward": 9,
+      "wardName": "Davenport",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 19,
+      "supportive": 19,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.427965,
+        43.65343336
+      ]
+    },
+    {
+      "id": "P0138",
+      "address": "970 Kipling Ave",
+      "addresses": "970 Kipling Avenue",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 3,
+      "wardName": "Etobicoke-Lakeshore",
+      "affordable": 198,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.53571319,
+        43.64071179
+      ]
+    },
+    {
+      "id": "P0135",
+      "address": "963 Pharmacy Ave",
+      "addresses": "963 Pharmacy Avenue",
+      "status": "Planning Applications Under Review",
+      "ward": 21,
+      "wardName": "Scarborough Centre",
+      "affordable": 8,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.30050342,
+        43.73485737
+      ]
+    },
+    {
+      "id": "P0074",
+      "address": "950 King St W",
+      "addresses": "938-960 King Street West and 95-99 Strachan Avenue",
+      "status": "Started Construction",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 40,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.41180491,
+        43.64228928
+      ]
+    },
+    {
+      "id": "P0008",
+      "address": "931 Yonge St",
+      "addresses": "931 Yonge Street",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 11,
+      "wardName": "University-Rosedale",
+      "affordable": 84,
+      "market": 174,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.38854667,
+        43.67551465
+      ]
+    },
+    {
+      "id": "P0046",
+      "address": "930 Albion Rd",
+      "addresses": "930 Albion Rd.",
+      "status": "Planning Applications Under Review",
+      "ward": 1,
+      "wardName": "Etobicoke North",
+      "affordable": 60,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.56150718,
+        43.73575354
+      ]
+    },
+    {
+      "id": "P0271",
+      "address": "90 Eglinton Ave E",
+      "addresses": "90-110 Eglinton Ave E",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 12,
+      "wardName": "Toronto-St. Paul's",
+      "affordable": 67,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.39589972,
+        43.70762097
+      ]
+    },
+    {
+      "id": "P0076",
+      "address": "100 Simcoe St",
+      "addresses": "90, 100 Simcoe Street, 130 Pearl Street, 203, 207, 211 Adelaide West",
+      "status": "Planning Applications Under Review",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 28,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.38676275,
+        43.64820052
+      ]
+    },
+    {
+      "id": "P0335",
+      "address": "90 Eastdale Ave",
+      "addresses": "90 Eastdale Avenue & 2 Secord Ave",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 19,
+      "wardName": "Beaches-East York",
+      "affordable": 11,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.30125029,
+        43.69461104
+      ]
+    },
+    {
+      "id": "P0011",
+      "address": "90 Dunn Ave",
+      "addresses": "90 Dunn Avenue (formerly 150 Dunn)",
+      "status": "Occupied",
+      "ward": 4,
+      "wardName": "Parkdale-High Park",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 51,
+      "supportive": 51,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.43234138,
+        43.63437505
+      ]
+    },
+    {
+      "id": "P0004",
+      "address": "9 Shortt St",
+      "addresses": "9 Shortt Street",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 8,
+      "wardName": "Eglinton-Lawrence",
+      "affordable": 138,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.45164928,
+        43.69602938
+      ]
+    },
+    {
+      "id": "P0125",
+      "address": "888 Dupont St",
+      "addresses": "888 Dupont Street",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 11,
+      "wardName": "University-Rosedale",
+      "affordable": 20,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.42892166,
+        43.67055435
+      ]
+    },
+    {
+      "id": "P0045",
+      "address": "884 Kingston Rd",
+      "addresses": "880-884 Kingston Rd",
+      "status": "Pre-Planning",
+      "ward": 19,
+      "wardName": "Beaches-East York",
+      "affordable": 20,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.29041979,
+        43.68039968
+      ]
+    },
+    {
+      "id": "P0140",
+      "address": "880 Eastern Ave",
+      "addresses": "880 Eastern",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 14,
+      "wardName": "Toronto-Danforth",
+      "affordable": 6,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.32600814,
+        43.66272134
+      ]
+    },
+    {
+      "id": "P0185b",
+      "address": "877 Yonge St",
+      "addresses": "877 Yonge St",
+      "status": "Occupied",
+      "ward": 11,
+      "wardName": "University-Rosedale",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 156,
+      "supportive": 156,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.3879726,
+        43.67424895
+      ]
+    },
+    {
+      "id": "P0161",
+      "address": "87 Ethel Ave",
+      "addresses": "87 Ethel Avenue",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 5,
+      "wardName": "York South-Weston",
+      "affordable": 141,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.47299547,
+        43.66875075
+      ]
+    },
+    {
+      "id": "P0363",
+      "address": "849 Eglinton Ave E",
+      "addresses": "849 Eglinton Ave. E.",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 15,
+      "wardName": "Don Valley West",
+      "affordable": 6,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.36148548,
+        43.71329481
+      ]
+    },
+    {
+      "id": "P0059",
+      "address": "838 Broadview Ave",
+      "addresses": "838 Broadview Avenue",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 14,
+      "wardName": "Toronto-Danforth",
+      "affordable": 2,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.35866176,
+        43.67862455
+      ]
+    },
+    {
+      "id": "P0116",
+      "address": "835 Queen St E",
+      "addresses": "835-841 Queen Street East",
+      "status": "Pre-Planning",
+      "ward": 14,
+      "wardName": "Toronto-Danforth",
+      "affordable": 96,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.34403174,
+        43.65998486
+      ]
+    },
+    {
+      "id": "P0212",
+      "address": "8 Locust St",
+      "addresses": "8-18 Locust St.",
+      "status": "Started Construction",
+      "ward": 5,
+      "wardName": "York South-Weston",
+      "affordable": 89,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.49070429,
+        43.68818458
+      ]
+    },
+    {
+      "id": "P0282",
+      "address": "815 Eglinton Ave E",
+      "addresses": "815-845 Eglinton Avenue East",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 15,
+      "wardName": "Don Valley West",
+      "affordable": 40,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.36435334,
+        43.71337336
+      ]
+    },
+    {
+      "id": "P0093",
+      "address": "805 Don Mills Rd",
+      "addresses": "805 Don Mills Road",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 16,
+      "wardName": "Don Valley East",
+      "affordable": 280,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.33830181,
+        43.72020981
+      ]
+    },
+    {
+      "id": "P0325",
+      "address": "8 Dawes Rd",
+      "addresses": "8 Dawes Road",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 19,
+      "wardName": "Beaches-East York",
+      "affordable": 12,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.2967521,
+        43.68749294
+      ]
+    },
+    {
+      "id": "P0144",
+      "address": "9 Wardlaw Cres",
+      "addresses": "7-9 Wardlaw Crescent",
+      "status": "Started Construction",
+      "ward": 1,
+      "wardName": "Etobicoke North",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 51,
+      "supportive": 51,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.56528327,
+        43.7394297
+      ]
+    },
+    {
+      "id": "P0047",
+      "address": "17 Norris Cr",
+      "addresses": "7-9 Norris Crescent",
+      "status": "Pre-Planning",
+      "ward": 3,
+      "wardName": "Etobicoke-Lakeshore",
+      "affordable": 33,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.48920117,
+        43.61112277
+      ]
+    },
+    {
+      "id": "P0086",
+      "address": "777 Victoria Park Ave",
+      "addresses": "777 Victoria Park Avenue",
+      "status": "Started Construction",
+      "ward": 20,
+      "wardName": "Scarborough Southwest",
+      "affordable": 230,
+      "market": 449,
+      "rgi": 26,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.28915706,
+        43.69454357
+      ]
+    },
+    {
+      "id": "P0340",
+      "address": "775 Vaughan Rd",
+      "addresses": "775 Vaughan Road",
+      "status": "Planning Applications Under Review",
+      "ward": 12,
+      "wardName": "Toronto-St. Paul's",
+      "affordable": 117,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.44731594,
+        43.6948976
+      ]
+    },
+    {
+      "id": "P0094",
+      "address": "770 Don Mills Rd",
+      "addresses": "770 Don Mills Road",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 16,
+      "wardName": "Don Valley East",
+      "affordable": 418,
+      "market": 836,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.33814574,
+        43.716444
+      ]
+    },
+    {
+      "id": "P0136",
+      "address": "729 St Clair Ave W",
+      "addresses": "729 St Clair Avenue West",
+      "status": "Pre-Planning",
+      "ward": 12,
+      "wardName": "Toronto-St. Paul's",
+      "affordable": 26,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.42747455,
+        43.68113281
+      ]
+    },
+    {
+      "id": "P0208",
+      "address": "72 Perth Ave",
+      "addresses": "72 Perth Ave",
+      "status": "Started Construction",
+      "ward": 9,
+      "wardName": "Davenport",
+      "affordable": 51,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.44840538,
+        43.65597867
+      ]
+    },
+    {
+      "id": "P0010",
+      "address": "72 Amroth Avenue",
+      "addresses": "72 Amroth Avenue",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 19,
+      "wardName": "Beaches-East York",
+      "affordable": 5,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.31168266,
+        43.68531846
+      ]
+    },
+    {
+      "id": "P0293",
+      "address": "70 Lynn Williams St",
+      "addresses": "70-86 Lynn Willams Street",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 13,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.41617939,
+        43.63929234
+      ]
+    },
+    {
+      "id": "P0089",
+      "address": "705 Warden Ave",
+      "addresses": "705 Warden Avenue",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 20,
+      "wardName": "Scarborough Southwest",
+      "affordable": 249,
+      "market": 352,
+      "rgi": 28,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.28062463,
+        43.71343298
+      ]
+    },
+    {
+      "id": "P0197",
+      "address": "70 Canuck Ave",
+      "addresses": "70 Canuck Avenue",
+      "status": "Planning Applications Under Review",
+      "ward": 6,
+      "wardName": "York Centre",
+      "affordable": 2220,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.48164962,
+        43.74989482
+      ]
+    },
+    {
+      "id": "P0117",
+      "address": "7 Vanauley St",
+      "addresses": "7 Vanauley Street",
+      "status": "Started Construction",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 31,
+      "supportive": 31,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.39830825,
+        43.64882517
+      ]
+    },
+    {
+      "id": "P0390",
+      "address": "7 St. Dennis Drive",
+      "addresses": "7 St. Dennis Drive",
+      "status": "Building Permit Application",
+      "ward": 16,
+      "wardName": "Don Valley East",
+      "affordable": 95,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.3362261,
+        43.7160075
+      ]
+    },
+    {
+      "id": "P0267",
+      "address": "685 Lake Shore Blvd E",
+      "addresses": "685 Lake Shore Boulevard East",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 14,
+      "wardName": "Toronto-Danforth",
+      "affordable": 104,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.3431269,
+        43.65187064
+      ]
+    },
+    {
+      "id": "P0327",
+      "address": "65 Silver Springs Blvd",
+      "addresses": "65-99 Silver Springs Boulevard",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 22,
+      "wardName": "Scarborough-Agincourt",
+      "affordable": 9,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.30423789,
+        43.80132103
+      ]
+    },
+    {
+      "id": "P0268",
+      "address": "309 Cherry St",
+      "addresses": "65 Ookwemin Street",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 14,
+      "wardName": "Toronto-Danforth",
+      "affordable": 103,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.3530985,
+        43.64657116
+      ]
+    },
+    {
+      "id": "P0291",
+      "address": "65 Dundas St E",
+      "addresses": "65 Dundas Street E",
+      "status": "Occupied",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 92,
+      "supportive": 92,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.37845101,
+        43.65600253
+      ]
+    },
+    {
+      "id": "P0005",
+      "address": "65 Dundas St E",
+      "addresses": "65 Dundas St E",
+      "status": "Occupied",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 188,
+      "supportive": 188,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.37845101,
+        43.65600253
+      ]
+    },
+    {
+      "id": "P0326",
+      "address": "625 Church St",
+      "addresses": "625 Church St.",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 11,
+      "wardName": "University-Rosedale",
+      "affordable": 15,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.38234681,
+        43.66988647
+      ]
+    },
+    {
+      "id": "P0006",
+      "address": "62 Orchard Park Dr",
+      "addresses": "62 Orchard Park Drive",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 25,
+      "wardName": "Scarborough-Rouge Park",
+      "affordable": 47,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.17960461,
+        43.77418261
+      ]
+    },
+    {
+      "id": "P0079",
+      "address": "610 Bay St",
+      "addresses": "610 Bay Street and 130 Elizabeth Street",
+      "status": "Started Construction",
+      "ward": 11,
+      "wardName": "University-Rosedale",
+      "affordable": 210,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.38442908,
+        43.65617404
+      ]
+    },
+    {
+      "id": "P0365",
+      "address": "6040 Bathurst St",
+      "addresses": "6040 Bathurst St. & 5 Fisherville Rd",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 6,
+      "wardName": "York Centre",
+      "affordable": 10,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.44739479,
+        43.78881448
+      ]
+    },
+    {
+      "id": "P0364",
+      "address": "6020 Bathurst St",
+      "addresses": "6020-6030 Bathurst St.",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 6,
+      "wardName": "York Centre",
+      "affordable": 10,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.44737096,
+        43.7870789
+      ]
+    },
+    {
+      "id": "P0026",
+      "address": "60 Bowden St",
+      "addresses": "60 Bowden St",
+      "status": "Started Construction",
+      "ward": 14,
+      "wardName": "Toronto-Danforth",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 50,
+      "supportive": 50,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.35404786,
+        43.67680447
+      ]
+    },
+    {
+      "id": "P0178",
+      "address": "6 Shipman St",
+      "addresses": "6 Shipman Street",
+      "status": "Occupied",
+      "ward": 4,
+      "wardName": "Parkdale-High Park",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 2,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.47586764,
+        43.66663851
+      ]
+    },
+    {
+      "id": "P0323",
+      "address": "6 Dawes Rd",
+      "addresses": "6 Dawes Road",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 19,
+      "wardName": "Beaches-East York",
+      "affordable": 9,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.29877738,
+        43.68711716
+      ]
+    },
+    {
+      "id": "P0346",
+      "address": "586 Eglinton Ave E",
+      "addresses": "586 Eglinton Avenue E",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 15,
+      "wardName": "Don Valley West",
+      "affordable": 12,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.37963371,
+        43.71089602
+      ]
+    },
+    {
+      "id": "P0368",
+      "address": "58 Jones Ave",
+      "addresses": "58 Jones Ave.",
+      "status": "Planning Applications Under Review",
+      "ward": 14,
+      "wardName": "Toronto-Danforth",
+      "affordable": 7,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.33365034,
+        43.66403766
+      ]
+    },
+    {
+      "id": "P0395",
+      "address": "57 Spadina Ave",
+      "addresses": "57 Spadina Ave",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 9,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.39447144,
+        43.64495623
+      ]
+    },
+    {
+      "id": "P0324",
+      "address": "5507 Dundas St W",
+      "addresses": "5507 & 5509 Dundas St. W.",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 3,
+      "wardName": "Etobicoke-Lakeshore",
+      "affordable": 6,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.54476194,
+        43.63166418
+      ]
+    },
+    {
+      "id": "P0362",
+      "address": "55 Eglinton Ave E",
+      "addresses": "55 Eglinton Ave. E.",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 12,
+      "wardName": "Toronto-St. Paul's",
+      "affordable": 6,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.39607782,
+        43.70690691
+      ]
+    },
+    {
+      "id": "P0371",
+      "address": "5359 Dundas St W",
+      "addresses": "5359 Dundas Street West",
+      "status": "Planning Applications Under Review",
+      "ward": 3,
+      "wardName": "Etobicoke-Lakeshore",
+      "affordable": 178,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.53991279,
+        43.63575863
+      ]
+    },
+    {
+      "id": "P0052a",
+      "address": "805 Wellington Ave",
+      "addresses": "53 Strachan Avenue (805A Wellington Street West and 805 Wellington Street West)",
+      "status": "Planning Applications Under Review",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 81,
+      "supportive": 81,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.41007836,
+        43.64079383
+      ]
+    },
+    {
+      "id": "P0019",
+      "address": "525 Markham Rd",
+      "addresses": "525 Markham Rd",
+      "status": "Started Construction",
+      "ward": 24,
+      "wardName": "Scarborough-Guildwood",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 62,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.22397358,
+        43.75675421
+      ]
+    },
+    {
+      "id": "P0090",
+      "address": "5207 Dundas St W ",
+      "addresses": "5207 Dundas St. W.",
+      "status": "Started Construction",
+      "ward": 3,
+      "wardName": "Etobicoke-Lakeshore",
+      "affordable": 196,
+      "market": 507,
+      "rgi": 22,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.53339886,
+        43.64010721
+      ]
+    },
+    {
+      "id": "P0320",
+      "address": "510 Yonge St",
+      "addresses": "510-528 Yonge Street and 7 Breadalbane Street",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 25,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.38417999,
+        43.66342015
+      ]
+    },
+    {
+      "id": "P0316",
+      "address": "507 Kingston Rd",
+      "addresses": "507 - 511 Kingston Road",
+      "status": "Started Construction",
+      "ward": 19,
+      "wardName": "Beaches-East York",
+      "affordable": 30,
+      "market": 60,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.30225369,
+        43.67746245
+      ]
+    },
+    {
+      "id": "P0070",
+      "address": "502 Spadina Ave",
+      "addresses": "502 Spadina Avenue",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 11,
+      "wardName": "University-Rosedale",
+      "affordable": 42,
+      "market": 0,
+      "rgi": 67,
+      "supportive": 67,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.40080745,
+        43.65868559
+      ]
+    },
+    {
+      "id": "P0353",
+      "address": "389 Cleverland St",
+      "addresses": "501 & 503 Eglinton Ave E and 383-389 Cleveland St",
+      "status": "Started Construction",
+      "ward": 15,
+      "wardName": "Don Valley West",
+      "affordable": 43,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.38060929,
+        43.71006363
+      ]
+    },
+    {
+      "id": "P0314",
+      "address": "500 Dundas St E",
+      "addresses": "500 Dundas St E",
+      "status": "Planning Applications Under Review",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 65,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.36420394,
+        43.66009074
+      ]
+    },
+    {
+      "id": "P0087b",
+      "address": "50 Wilson Heights Blvd",
+      "addresses": "50 Wilson Heights Boulevard",
+      "status": "Started Construction",
+      "ward": 6,
+      "wardName": "York Centre",
+      "affordable": 352,
+      "market": 391,
+      "rgi": 39,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.44911461,
+        43.73538198
+      ]
+    },
+    {
+      "id": "P0087c",
+      "address": "50 Wilson Heights Blvd",
+      "addresses": "50 Wilson Heights Boulevard",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 6,
+      "wardName": "York Centre",
+      "affordable": 115,
+      "market": 128,
+      "rgi": 13,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.44911461,
+        43.73538198
+      ]
+    },
+    {
+      "id": "P0311",
+      "address": "5 Cosburn Ave",
+      "addresses": "5, 7, 9, 11, 15 and 19 Cosburn Avenue and 8, 10, 12, 14, 16, 30, 32, 34, 36, 38 and 40 Gowan Avenue",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 14,
+      "wardName": "Toronto-Danforth",
+      "affordable": 10,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.35456616,
+        43.68820394
+      ]
+    },
+    {
+      "id": "P0358",
+      "address": "1 Herons Hill Way",
+      "addresses": "5 Herons Hill Way",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 17,
+      "wardName": "Don Valley North",
+      "affordable": 8,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.33652036,
+        43.77432717
+      ]
+    },
+    {
+      "id": "P0211",
+      "address": "49 Ontario St",
+      "addresses": "49 Ontario St",
+      "status": "Started Construction",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 245,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.36607776,
+        43.65311725
+      ]
+    },
+    {
+      "id": "P0334",
+      "address": "4800 Yonge St",
+      "addresses": "4800 Yonge St.",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 18,
+      "wardName": "Willowdale",
+      "affordable": 10,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.41102307,
+        43.76081959
+      ]
+    },
+    {
+      "id": "P0319",
+      "address": "48 Annette St",
+      "addresses": "48 Annette St",
+      "status": "Started Construction",
+      "ward": 4,
+      "wardName": "Parkdale-High Park",
+      "affordable": 3,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.46135028,
+        43.66389279
+      ]
+    },
+    {
+      "id": "P0328",
+      "address": "52 Laing St",
+      "addresses": "46R, 46-52 & 52R Laing Street",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 14,
+      "wardName": "Toronto-Danforth",
+      "affordable": 6,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.32712283,
+        43.66277792
+      ]
+    },
+    {
+      "id": "P0012",
+      "address": "4628 Kingston Rd",
+      "addresses": "4628 Kingston Rd",
+      "status": "Occupied",
+      "ward": 25,
+      "wardName": "Scarborough-Rouge Park",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 64,
+      "supportive": 64,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.17993694,
+        43.77516041
+      ]
+    },
+    {
+      "id": "P0041a",
+      "address": "4620 Eglinton Ave W",
+      "addresses": "4620 Eglinton Avenue West and 250 Wincott Drive",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 2,
+      "wardName": "Etobicoke Centre",
+      "affordable": 2,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.54677945,
+        43.67969221
+      ]
+    },
+    {
+      "id": "P0109",
+      "address": "455 Palmerston Blvd",
+      "addresses": "455 Palmerston Boulevard",
+      "status": "Planning Applications Under Review",
+      "ward": 11,
+      "wardName": "University-Rosedale",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 10,
+      "supportive": 10,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.41198289,
+        43.66122439
+      ]
+    },
+    {
+      "id": "P0336",
+      "address": "450 Dufferin St",
+      "addresses": "450 Dufferin Street",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 9,
+      "wardName": "Davenport",
+      "affordable": 6,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.43012132,
+        43.64518304
+      ]
+    },
+    {
+      "id": "P0317",
+      "address": "430 Royal York Rd",
+      "addresses": "430 Royal York Rd",
+      "status": "Planning Applications Under Review",
+      "ward": 3,
+      "wardName": "Etobicoke-Lakeshore",
+      "affordable": 19,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.50052677,
+        43.62068883
+      ]
+    },
+    {
+      "id": "P0357",
+      "address": "4129 Lawrence Ave E",
+      "addresses": "4129-4139 Lawrence Ave E",
+      "status": "Planning Applications Under Review",
+      "ward": 24,
+      "wardName": "Scarborough-Guildwood",
+      "affordable": 77,
+      "market": 183,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.19226369,
+        43.76663153
+      ]
+    },
+    {
+      "id": "P0097",
+      "address": "405 Sherbourne St",
+      "addresses": "405 Sherbourne Street",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 23,
+      "market": 210,
+      "rgi": 68,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.37335558,
+        43.66460723
+      ]
+    },
+    {
+      "id": "P0105",
+      "address": "4040 Lawrence Ave E",
+      "addresses": "4040 Lawrence Ave E",
+      "status": "Pre-Planning",
+      "ward": 24,
+      "wardName": "Scarborough-Guildwood",
+      "affordable": 80,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.19901183,
+        43.76600352
+      ]
+    },
+    {
+      "id": "P0103",
+      "address": "40 Bushby Dr",
+      "addresses": "40 Bushby Dr",
+      "status": "Planning Applications Under Review",
+      "ward": 24,
+      "wardName": "Scarborough-Guildwood",
+      "affordable": 450,
+      "market": 491,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.25113216,
+        43.7745567
+      ]
+    },
+    {
+      "id": "P0035",
+      "address": "393 Dundas St E",
+      "addresses": "393 Dundas St. E.",
+      "status": "Building Permit Application",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 12,
+      "supportive": 12,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.36795796,
+        43.65876606
+      ]
+    },
+    {
+      "id": "P0183",
+      "address": "39 Dundalk Dr",
+      "addresses": "39 Dundalk Drive",
+      "status": "Occupied",
+      "ward": 21,
+      "wardName": "Scarborough Centre",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 57,
+      "supportive": 57,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.28490996,
+        43.76840237
+      ]
+    },
+    {
+      "id": "P0321",
+      "address": "386 Symington Ave",
+      "addresses": "386-394 Symington Avenue, 485 Perth Avenue & 17 Kingsley Avenue",
+      "status": "Occupied",
+      "ward": 9,
+      "wardName": "Davenport",
+      "affordable": 6,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.4528791,
+        43.66823464
+      ]
+    },
+    {
+      "id": "P0146a",
+      "address": "3850 Sheppard Ave E",
+      "addresses": "3850 and 3900 Sheppard Avenue East and 2350 to 2362 Kennedy Road",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 22,
+      "wardName": "Scarborough-Agincourt",
+      "affordable": 114,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.28963842,
+        43.78478395
+      ]
+    },
+    {
+      "id": "P0146b",
+      "address": "3850 Sheppard Ave E",
+      "addresses": "3850 and 3900 Sheppard Avenue East and 2350 to 2362 Kennedy Road",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 22,
+      "wardName": "Scarborough-Agincourt",
+      "affordable": 101,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.29225268,
+        43.78393853
+      ]
+    },
+    {
+      "id": "P0146c",
+      "address": "3850 Sheppard Ave E",
+      "addresses": "3850 and 3900 Sheppard Avenue East and 2350 to 2362 Kennedy Road",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 22,
+      "wardName": "Scarborough-Agincourt",
+      "affordable": 57,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.29225268,
+        43.78393853
+      ]
+    },
+    {
+      "id": "P0065",
+      "address": "3817 Lawrence Ave E",
+      "addresses": "3817 Lawrence Ave East",
+      "status": "Pre-Planning",
+      "ward": 24,
+      "wardName": "Scarborough-Guildwood",
+      "affordable": 111,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.21234346,
+        43.76213102
+      ]
+    },
+    {
+      "id": "P0145",
+      "address": "3725 Bloor St W",
+      "addresses": "3725 Bloor St W",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 3,
+      "wardName": "Etobicoke-Lakeshore",
+      "affordable": 210,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.53276652,
+        43.64214464
+      ]
+    },
+    {
+      "id": "P0132",
+      "address": "355 Sherbourne St",
+      "addresses": "353-355 Sherbourne St.",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 132,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.37256989,
+        43.66289136
+      ]
+    },
+    {
+      "id": "P0417",
+      "address": "353  Adelaide St W",
+      "addresses": "353 and 355 Adelaide Street, 46 Charlotte Street and 16 Oxley Street",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 10,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.39417899,
+        43.6469845
+      ]
+    },
+    {
+      "id": "P0275",
+      "address": "351 Lake Shore Blvd E",
+      "addresses": "351-369 Lake Shore Boulevard East",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 67,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.35968511,
+        43.64796588
+      ]
+    },
+    {
+      "id": "P0276",
+      "address": "351 Lake Shore Blvd E",
+      "addresses": "351-369 Lake Shore Boulevard East",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 45,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.35968511,
+        43.64796588
+      ]
+    },
+    {
+      "id": "P0069",
+      "address": "350 Bloor St E",
+      "addresses": "350 Bloor Street East",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 11,
+      "wardName": "University-Rosedale",
+      "affordable": 16,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.37876543,
+        43.67230814
+      ]
+    },
+    {
+      "id": "P0121",
+      "address": "35 Bellevue Ave",
+      "addresses": "35 Bellevue Avenue",
+      "status": "Started Construction",
+      "ward": 11,
+      "wardName": "University-Rosedale",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 78,
+      "supportive": 78,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.40307066,
+        43.65424847
+      ]
+    },
+    {
+      "id": "P0339",
+      "address": "34 Montgomery Ave",
+      "addresses": "34-70 Montgomery Avenue",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 8,
+      "wardName": "Eglinton-Lawrence",
+      "affordable": 10,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.39994699,
+        43.70957709
+      ]
+    },
+    {
+      "id": "P0198",
+      "address": "1350 Sheppard Ave W",
+      "addresses": "3465 Keele Street (formerly 1350 Sheppard Ave W).",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 6,
+      "wardName": "York Centre",
+      "affordable": 340,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.48641863,
+        43.74738695
+      ]
+    },
+    {
+      "id": "P0296",
+      "address": "34 Maitland St",
+      "addresses": "34-42 Maitland St.",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 10,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.3824278,
+        43.66443796
+      ]
+    },
+    {
+      "id": "P0352",
+      "address": "3400 Weston Rd",
+      "addresses": "3400 Weston Road & 2405 Finch Avenue West",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 7,
+      "wardName": "Humber River-Black Creek",
+      "affordable": 81,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.54343266,
+        43.74981063
+      ]
+    },
+    {
+      "id": "P0133",
+      "address": "3385 Lawrence Ave E",
+      "addresses": "3379-3385 Lawrence Avenue East",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 24,
+      "wardName": "Scarborough-Guildwood",
+      "affordable": 47,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.2338166,
+        43.75782219
+      ]
+    },
+    {
+      "id": "P0071",
+      "address": "3377 Bayview Ave",
+      "addresses": "3377 Bayview Avenue",
+      "status": "Planning Applications Under Review",
+      "ward": 17,
+      "wardName": "Don Valley North",
+      "affordable": 650,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.39208386,
+        43.79714553
+      ]
+    },
+    {
+      "id": "P0216",
+      "address": "3377 Bayview Ave",
+      "addresses": "3377 Bayview Avenue",
+      "status": "Planning Applications Under Review",
+      "ward": 17,
+      "wardName": "Don Valley North",
+      "affordable": 102,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.39208386,
+        43.79714553
+      ]
+    },
+    {
+      "id": "P0177",
+      "address": "333 Lake Shore Blvd E",
+      "addresses": "333 Lake Shore Blvd E (Quayside Phase 2 - 4)",
+      "status": "Planning Applications Under Review",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 324,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.3602229,
+        43.64775504
+      ]
+    },
+    {
+      "id": "P0091a",
+      "address": "3326 Bloor St W",
+      "addresses": "3326 & 3330 Bloor Street West and 1226 & 1240 Islington Avenue",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 3,
+      "wardName": "Etobicoke-Lakeshore",
+      "affordable": 29,
+      "market": 210,
+      "rgi": 62,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.5234381,
+        43.64464858
+      ]
+    },
+    {
+      "id": "P0023",
+      "address": "325 Gerrard St E",
+      "addresses": "325 Gerrard Street East",
+      "status": "Started Construction",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 136,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.3653393,
+        43.66193657
+      ]
+    },
+    {
+      "id": "P0123",
+      "address": "316 Campbell Ave",
+      "addresses": "316-336 Campbell Avenue",
+      "status": "Started Construction",
+      "ward": 9,
+      "wardName": "Davenport",
+      "affordable": 21,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.4504038,
+        43.66625806
+      ]
+    },
+    {
+      "id": "P0075",
+      "address": "315 Spadina Ave",
+      "addresses": "315-325 Spadina Av",
+      "status": "Started Construction",
+      "ward": 11,
+      "wardName": "University-Rosedale",
+      "affordable": 22,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.39814233,
+        43.65421038
+      ]
+    },
+    {
+      "id": "P0124a",
+      "address": "315 Front St W",
+      "addresses": "315-325 Front St. West",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 32,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.38920945,
+        43.64348288
+      ]
+    },
+    {
+      "id": "P0124b",
+      "address": "315 Front St W",
+      "addresses": "315-325 Front St. West",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 16,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.38920945,
+        43.64348288
+      ]
+    },
+    {
+      "id": "P0370",
+      "address": "310 Spadina Ave",
+      "addresses": "310 Spadina Ave",
+      "status": "Planning Applications Under Review",
+      "ward": 11,
+      "wardName": "University-Rosedale",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 83,
+      "supportive": 83,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.39885771,
+        43.65343019
+      ]
+    },
+    {
+      "id": "P0112",
+      "address": "306 Gerrard St E",
+      "addresses": "306-310 Gerrard Street East",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 60,
+      "market": 118,
+      "rgi": 59,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.36647126,
+        43.66246552
+      ]
+    },
+    {
+      "id": "P0305",
+      "address": "3050 Pharmacy Ave",
+      "addresses": "3050 Pharmacy Avenue",
+      "status": "Occupied",
+      "ward": 22,
+      "wardName": "Scarborough-Agincourt",
+      "affordable": 24,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.32743912,
+        43.79557202
+      ]
+    },
+    {
+      "id": "P0168",
+      "address": "300 The East Mall",
+      "addresses": "300-304 The East Mall",
+      "status": "Occupied",
+      "ward": 2,
+      "wardName": "Etobicoke Centre",
+      "affordable": 172,
+      "market": 0,
+      "rgi": 45,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.55744353,
+        43.63726449
+      ]
+    },
+    {
+      "id": "P0227",
+      "address": "304 The East Mall",
+      "addresses": "300-304 The East Mall",
+      "status": "Approved Site Plan Application",
+      "ward": 2,
+      "wardName": "Etobicoke Centre",
+      "affordable": 129,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.55744353,
+        43.63726449
+      ]
+    },
+    {
+      "id": "P0403",
+      "address": "3000 Dufferin St",
+      "addresses": "3000 Dufferin St",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 8,
+      "wardName": "Eglinton-Lawrence",
+      "affordable": 10,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.45503098,
+        43.71108689
+      ]
+    },
+    {
+      "id": "P0051a",
+      "address": "3 Flemington Rd",
+      "addresses": "3, 5 Leila Lane and 31-109 Bagot Court",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 8,
+      "wardName": "Eglinton-Lawrence",
+      "affordable": 130,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.44187249,
+        43.72178944
+      ]
+    },
+    {
+      "id": "P0193",
+      "address": "349 George St",
+      "addresses": "295-349 George St",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 70,
+      "supportive": 70,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.37363403,
+        43.65866175
+      ]
+    },
+    {
+      "id": "P0292",
+      "address": "2946 Dundas St W",
+      "addresses": "2946-2968 Dundas Street West",
+      "status": "Started Construction",
+      "ward": 4,
+      "wardName": "Parkdale-High Park",
+      "affordable": 6,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.46764148,
+        43.66558706
+      ]
+    },
+    {
+      "id": "P0306",
+      "address": "2901 Bayview Ave",
+      "addresses": "2901 Bayview Avenue",
+      "status": "Building Permit Application",
+      "ward": 17,
+      "wardName": "Don Valley North",
+      "affordable": 14,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.38602584,
+        43.76920286
+      ]
+    },
+    {
+      "id": "P0307",
+      "address": "2901 Bayview Ave",
+      "addresses": "2901 Bayview Avenue",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 17,
+      "wardName": "Don Valley North",
+      "affordable": 26,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.38602584,
+        43.76920286
+      ]
+    },
+    {
+      "id": "P0143",
+      "address": "290 Old Weston Rd",
+      "addresses": "290 Old Weston Road",
+      "status": "Planning Applications Under Review",
+      "ward": 9,
+      "wardName": "Davenport",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 18,
+      "supportive": 18,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.46283844,
+        43.67204774
+      ]
+    },
+    {
+      "id": "P0051b",
+      "address": "2 Flemington Road",
+      "addresses": "2-8 Flemington Road, 14-20 Flemington Road",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 8,
+      "wardName": "Eglinton-Lawrence",
+      "affordable": 44,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.44659008,
+        43.71946994
+      ]
+    },
+    {
+      "id": "P0104",
+      "address": "2700 Eglinton Ave W",
+      "addresses": "2700 Eglinton Ave W",
+      "status": "Pre-Planning",
+      "ward": 5,
+      "wardName": "York South-Weston",
+      "affordable": 100,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.47841238,
+        43.68988424
+      ]
+    },
+    {
+      "id": "P0053",
+      "address": "27 Grosvenor St",
+      "addresses": "27 Grosvenor Street and 26 Grenville Street",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 29,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.38500828,
+        43.66207258
+      ]
+    },
+    {
+      "id": "P0162",
+      "address": "275 Merton St",
+      "addresses": "267 & 275 Merton Street",
+      "status": "Started Construction",
+      "ward": 12,
+      "wardName": "Toronto-St. Paul's",
+      "affordable": 148,
+      "market": 346,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.3877133,
+        43.6976276
+      ]
+    },
+    {
+      "id": "P0344",
+      "address": "2636 Eglinton Ave W",
+      "addresses": "2636 to 2654 Eglinton Avenue West",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 5,
+      "wardName": "York South-Weston",
+      "affordable": 130,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.47419542,
+        43.69064055
+      ]
+    },
+    {
+      "id": "P0106",
+      "address": "263 Queens Quay E",
+      "addresses": "263 Queens Quay East",
+      "status": "Pre-Planning",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 199,
+      "market": 126,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.38666726,
+        43.63856042
+      ]
+    },
+    {
+      "id": "P0329",
+      "address": "261 Queen St E",
+      "addresses": "261-285 Queen Street East, 360, 384, 410 Richmond Street East and 90, 106 Ontario Street",
+      "status": "Started Construction",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 13,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.36811287,
+        43.65464615
+      ]
+    },
+    {
+      "id": "P0356",
+      "address": "260 Queens Quay E",
+      "addresses": "260 Queens Quay East",
+      "status": "Pre-Planning",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 16,
+      "market": 112,
+      "rgi": 32,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.38571855,
+        43.63928845
+      ]
+    },
+    {
+      "id": "P0120",
+      "address": "30 Gilder Dr",
+      "addresses": "26 Gilder Drive",
+      "status": "Started Construction",
+      "ward": 21,
+      "wardName": "Scarborough Centre",
+      "affordable": 70,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.25692181,
+        43.73690379
+      ]
+    },
+    {
+      "id": "P0170",
+      "address": "259 Lake Shore Blvd E",
+      "addresses": "259 Lake Shore Blvd E",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 204,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.36421052,
+        43.64660421
+      ]
+    },
+    {
+      "id": "P0171",
+      "address": "259 Lake Shore Blvd E",
+      "addresses": "259 Lake Shore Blvd E",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 143,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.36421052,
+        43.64660421
+      ]
+    },
+    {
+      "id": "P0172",
+      "address": "259 Lake Shore Blvd E",
+      "addresses": "259 Lake Shore Blvd E",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 98,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.36421052,
+        43.64660421
+      ]
+    },
+    {
+      "id": "P0173",
+      "address": "259 Lake Shore Blvd E",
+      "addresses": "259 Lake Shore Blvd E",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 106,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.36421052,
+        43.64660421
+      ]
+    },
+    {
+      "id": "P0278",
+      "address": "2575 Danforth Ave",
+      "addresses": "2575 and 2625 Danforth Avenue, 2681 Danforth Avenue, and 2721 Danforth Avenu",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 19,
+      "wardName": "Beaches-East York",
+      "affordable": 47,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.30031719,
+        43.68819279
+      ]
+    },
+    {
+      "id": "P0269",
+      "address": "2550 Victoria Park Ave",
+      "addresses": "2550 Victoria Park Avenue and 2, 4, 6 Lansing Square",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 17,
+      "wardName": "Don Valley North",
+      "affordable": 80,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.32310501,
+        43.77379262
+      ]
+    },
+    {
+      "id": "P0270",
+      "address": "2550 Victoria Park Ave",
+      "addresses": "2550 Victoria Park Avenue and 2, 4, 6 Lansing Square",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 17,
+      "wardName": "Don Valley North",
+      "affordable": 80,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.32310501,
+        43.77379262
+      ]
+    },
+    {
+      "id": "P0181",
+      "address": "254 King St E",
+      "addresses": "254-266 King Street East, 427-435 Adelaide Street East and 157 Princess Street",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 190,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.36666165,
+        43.65211713
+      ]
+    },
+    {
+      "id": "P0015",
+      "address": "260 Adelaide St W",
+      "addresses": "254-260 Adelaide Street West",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 254,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.38956419,
+        43.64830654
+      ]
+    },
+    {
+      "id": "P0202",
+      "address": "253 Markham Rd",
+      "addresses": "253 Markham Rd & 12,20,30 Markham & Dunelm St (Phase 1)",
+      "status": "Started Construction",
+      "ward": 24,
+      "wardName": "Scarborough-Guildwood",
+      "affordable": 49,
+      "market": 196,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.2201707,
+        43.74722026
+      ]
+    },
+    {
+      "id": "P0095",
+      "address": "251 Esther Shiner Blvd",
+      "addresses": "251 Esther Shiner Boulevard",
+      "status": "Pre-Planning",
+      "ward": 17,
+      "wardName": "Don Valley North",
+      "affordable": 603,
+      "market": 603,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.36548981,
+        43.76883685
+      ]
+    },
+    {
+      "id": "P0330",
+      "address": "2500 Don Mills Rd",
+      "addresses": "2500 Don Mills Road",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 17,
+      "wardName": "Don Valley North",
+      "affordable": 17,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.34773733,
+        43.77522897
+      ]
+    },
+    {
+      "id": "P0077",
+      "address": "250 Dundas St W",
+      "addresses": "250 Dundas Street West",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 11,
+      "wardName": "University-Rosedale",
+      "affordable": 34,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.38979491,
+        43.65480946
+      ]
+    },
+    {
+      "id": "P0044",
+      "address": "25 Sewells Rd",
+      "addresses": "25 Sewells Rd",
+      "status": "Started Construction",
+      "ward": 25,
+      "wardName": "Scarborough-Rouge Park",
+      "affordable": 117,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.21571656,
+        43.80736862
+      ]
+    },
+    {
+      "id": "P0063",
+      "address": "25 Sewells Rd",
+      "addresses": "25 Sewells Rd",
+      "status": "Started Construction",
+      "ward": 25,
+      "wardName": "Scarborough-Rouge Park",
+      "affordable": 203,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.21581642,
+        43.80741558
+      ]
+    },
+    {
+      "id": "P0309",
+      "address": "25 Fisherville Rd",
+      "addresses": "25 Fisherville Road",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 6,
+      "wardName": "York Centre",
+      "affordable": 10,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.44897913,
+        43.78887474
+      ]
+    },
+    {
+      "id": "P0312",
+      "address": "25 Eden Place ",
+      "addresses": "25 Eden Place",
+      "status": "Pre-Planning",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 100,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.40333063,
+        43.64874159
+      ]
+    },
+    {
+      "id": "P0119",
+      "address": "25 Borough Dr",
+      "addresses": "25 Borough Drive",
+      "status": "Started Construction",
+      "ward": 21,
+      "wardName": "Scarborough Centre",
+      "affordable": 64,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.26149458,
+        43.77404831
+      ]
+    },
+    {
+      "id": "P0028",
+      "address": "25 Augusta Ave",
+      "addresses": "25 Augusta Ave.",
+      "status": "Occupied",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 31,
+      "supportive": 31,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.39974705,
+        43.64897546
+      ]
+    },
+    {
+      "id": "P0155",
+      "address": "2495 Eglinton Ave E",
+      "addresses": "2495 Eglinton Avenue East",
+      "status": "Planning Applications Under Review",
+      "ward": 20,
+      "wardName": "Scarborough Southwest",
+      "affordable": 4,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.25960537,
+        43.73399658
+      ]
+    },
+    {
+      "id": "P0113",
+      "address": "248 Ossington Ave",
+      "addresses": "248 Ossington Avenue",
+      "status": "Pre-Planning",
+      "ward": 9,
+      "wardName": "Davenport",
+      "affordable": 75,
+      "market": 152,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.42121307,
+        43.64978166
+      ]
+    },
+    {
+      "id": "P0281",
+      "address": "348 Richmond St E",
+      "addresses": "245, 251, 257 Queen Street East and 348, 354 Richmond Street East",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 30,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.36847611,
+        43.65385701
+      ]
+    },
+    {
+      "id": "P0209",
+      "address": "2448 Kingston Rd",
+      "addresses": "2448-2450 Kingston Rd.",
+      "status": "Started Construction",
+      "ward": 20,
+      "wardName": "Scarborough Southwest",
+      "affordable": 9,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.24952002,
+        43.70963552
+      ]
+    },
+    {
+      "id": "P0102",
+      "address": "2444 Eglinton Ave E",
+      "addresses": "2444 Eglinton Avenue East",
+      "status": "Started Construction",
+      "ward": 21,
+      "wardName": "Scarborough Centre",
+      "affordable": 275,
+      "market": 306,
+      "rgi": 31,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.26438367,
+        43.73372435
+      ]
+    },
+    {
+      "id": "P0304",
+      "address": "2440 Dundas St W",
+      "addresses": "2400-2440 Dundas Street W.",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 4,
+      "wardName": "Parkdale-High Park",
+      "affordable": 56,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.45242035,
+        43.6581626
+      ]
+    },
+    {
+      "id": "P0303",
+      "address": "2440 Dundas St W",
+      "addresses": "2400-2440 Dundas Street W.",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 4,
+      "wardName": "Parkdale-High Park",
+      "affordable": 11,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.45242035,
+        43.6581626
+      ]
+    },
+    {
+      "id": "P0228",
+      "address": "265 Balliol St",
+      "addresses": "239-251 and 265 Balliol Street",
+      "status": "Started Construction",
+      "ward": 12,
+      "wardName": "Toronto-St. Paul's",
+      "affordable": 23,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.38781075,
+        43.69877738
+      ]
+    },
+    {
+      "id": "P0361",
+      "address": " 2323 Yonge St",
+      "addresses": "2323-2329 Yonge Street",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 12,
+      "wardName": "Toronto-St. Paul's",
+      "affordable": 6,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.39827012,
+        43.70831338
+      ]
+    },
+    {
+      "id": "P0036",
+      "address": "230 Coxwell Ave",
+      "addresses": "230 Coxwell Ave",
+      "status": "Occupied",
+      "ward": 14,
+      "wardName": "Toronto-Danforth",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 20,
+      "supportive": 20,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.31937417,
+        43.67201358
+      ]
+    },
+    {
+      "id": "P0184",
+      "address": "222 Spadina Ave",
+      "addresses": "222 Spadina Avenue",
+      "status": "Occupied",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 84,
+      "supportive": 84,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.39783776,
+        43.65092866
+      ]
+    },
+    {
+      "id": "P0043",
+      "address": "2217 Kingston Rd",
+      "addresses": "2217 Kingston Rd.",
+      "status": "Started Construction",
+      "ward": 20,
+      "wardName": "Scarborough Southwest",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 24,
+      "supportive": 24,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.25259337,
+        43.70371978
+      ]
+    },
+    {
+      "id": "P0264",
+      "address": "2200 Eglinton Ave E",
+      "addresses": "2200 to 2206 Eglinton Avenue East, 1020 to 1030 Birchmount Road and 75 Thermos Road",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 21,
+      "wardName": "Scarborough Centre",
+      "affordable": 91,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.28114089,
+        43.73001601
+      ]
+    },
+    {
+      "id": "P0265",
+      "address": "2200 Eglinton Ave E",
+      "addresses": "2200 to 2206 Eglinton Avenue East, 1020 to 1030 Birchmount Road and 75 Thermos Road",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 21,
+      "wardName": "Scarborough Centre",
+      "affordable": 39,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.28114089,
+        43.73001601
+      ]
+    },
+    {
+      "id": "P0179",
+      "address": "22 Maynard Ave",
+      "addresses": "22 Maynard Avenue",
+      "status": "Planning Applications Under Review",
+      "ward": 4,
+      "wardName": "Parkdale-High Park",
+      "affordable": 9,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.43794972,
+        43.63778066
+      ]
+    },
+    {
+      "id": "P0302",
+      "address": "22 Balliol St",
+      "addresses": "22 Balliol St",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 12,
+      "wardName": "Toronto-St. Paul's",
+      "affordable": 32,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.39553286,
+        43.69790134
+      ]
+    },
+    {
+      "id": "P0333",
+      "address": "21 Broadview Ave",
+      "addresses": "21-53 Broadview Avenue, 344 Eastern Avenue and 18-34 and 40 Lewis Street",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 14,
+      "wardName": "Toronto-Danforth",
+      "affordable": 6,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.34876007,
+        43.65711322
+      ]
+    },
+    {
+      "id": "P0027",
+      "address": "2150 Lake Shore Blvd W",
+      "addresses": "2150-2194 LakeShore Boulevard West and 23 Park Lawn Road",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 3,
+      "wardName": "Etobicoke-Lakeshore",
+      "affordable": 66,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.48282872,
+        43.62383456
+      ]
+    },
+    {
+      "id": "P0017",
+      "address": "215 Wellesley St E",
+      "addresses": "215 Wellesley St E",
+      "status": "Started Construction",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 48,
+      "supportive": 48,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.37297616,
+        43.66713999
+      ]
+    },
+    {
+      "id": "P0016",
+      "address": "212 King St W",
+      "addresses": "212 - 220 King Street West",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 11,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.38643348,
+        43.64767957
+      ]
+    },
+    {
+      "id": "P0134",
+      "address": "2102 Lawrence Ave E",
+      "addresses": "2102 Lawrence Avenue East",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 21,
+      "wardName": "Scarborough Centre",
+      "affordable": 46,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.29046231,
+        43.74669766
+      ]
+    },
+    {
+      "id": "P0149",
+      "address": "21 Windsor St",
+      "addresses": "21 Windsor St.",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 3,
+      "wardName": "Etobicoke-Lakeshore",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 36,
+      "supportive": 36,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.49749499,
+        43.61839527
+      ]
+    },
+    {
+      "id": "P0196",
+      "address": "21 Don Valley Parkway N",
+      "addresses": "21 Don Valley Parkway North",
+      "status": "Planning Applications Under Review",
+      "ward": 14,
+      "wardName": "Toronto-Danforth",
+      "affordable": 215,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.35943108,
+        43.68855462
+      ]
+    },
+    {
+      "id": "P0322",
+      "address": "209 Carlton St",
+      "addresses": "209 Carlton St.",
+      "status": "Issued Building Permit",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 4,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.36981582,
+        43.66370081
+      ]
+    },
+    {
+      "id": "P0169",
+      "address": "20 Front St W",
+      "addresses": "20-22 Front Street West",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 16,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.37782439,
+        43.64661367
+      ]
+    },
+    {
+      "id": "P0142",
+      "address": "200 University Ave",
+      "addresses": "200 University Ave",
+      "status": "Planning Applications Under Review",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 24,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.38663301,
+        43.64968025
+      ]
+    },
+    {
+      "id": "P0126",
+      "address": "200 Queens Quay W",
+      "addresses": "200 Queens Quay West",
+      "status": "Started Construction",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 78,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.38174034,
+        43.64048196
+      ]
+    },
+    {
+      "id": "P0391",
+      "address": "20 Gerrard Street East",
+      "addresses": "20 Gerrard Street east and 21 McGill Street",
+      "status": "Planning Applications Under Review",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 109,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 109,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.38143208,
+        43.65949491
+      ]
+    },
+    {
+      "id": "P0130",
+      "address": "2 Tecumseth St",
+      "addresses": "2 Tecumseth",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 28,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.40591504,
+        43.64071519
+      ]
+    },
+    {
+      "id": "P0085",
+      "address": "1978 Lakeshore Blvd W",
+      "addresses": "1978-2002 Lakeshore Avenue West",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 4,
+      "wardName": "Parkdale-High Park",
+      "affordable": 61,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.46933983,
+        43.63497691
+      ]
+    },
+    {
+      "id": "P0127",
+      "address": "1966 Eglinton Ave E",
+      "addresses": "1966-1980 Eglinton Ave East",
+      "status": "Planning Applications Under Review",
+      "ward": 21,
+      "wardName": "Scarborough Centre",
+      "affordable": 67,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.28590522,
+        43.7286614
+      ]
+    },
+    {
+      "id": "P0141",
+      "address": "191 College St",
+      "addresses": "191-199 College Street and 74-76 Henry Street",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 11,
+      "wardName": "University-Rosedale",
+      "affordable": 408,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.39479758,
+        43.65867964
+      ]
+    },
+    {
+      "id": "P0277",
+      "address": "1900 Eglinton Ave E",
+      "addresses": "1900 Eglinton Ave E",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 21,
+      "wardName": "Scarborough Centre",
+      "affordable": 60,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.29449348,
+        43.7282513
+      ]
+    },
+    {
+      "id": "P0214",
+      "address": "1886 Eglinton Ave W",
+      "addresses": "1886-1920 Eglinton Ave W",
+      "status": "Started Construction",
+      "ward": 8,
+      "wardName": "Eglinton-Lawrence",
+      "affordable": 51,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.45187383,
+        43.69564409
+      ]
+    },
+    {
+      "id": "P0263",
+      "address": "1880 Eglinton Ave E",
+      "addresses": "1880-1890 Eglinton Avenue East and 1523-1545 Victoria Park Avenue",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 21,
+      "wardName": "Scarborough Centre",
+      "affordable": 130,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.30245941,
+        43.72499137
+      ]
+    },
+    {
+      "id": "P0029",
+      "address": "175 Cummer Ave",
+      "addresses": "185 Cummer Ave (formerly 175 Cummer)",
+      "status": "Started Construction",
+      "ward": 18,
+      "wardName": "Willowdale",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 59,
+      "supportive": 59,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.40899338,
+        43.78858272
+      ]
+    },
+    {
+      "id": "P0418",
+      "address": "1800 Sheppard Ave E",
+      "addresses": "1800 Sheppard Avenue E (Phase 1)",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 17,
+      "wardName": "Don Valley North",
+      "affordable": 18,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.34485184,
+        43.77891888
+      ]
+    },
+    {
+      "id": "P0418b",
+      "address": "1800 Sheppard Ave E",
+      "addresses": "1800 Sheppard Avenue E",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 17,
+      "wardName": "Don Valley North",
+      "affordable": 168,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.34485184,
+        43.77891888
+      ]
+    },
+    {
+      "id": "P0318",
+      "address": "18 Buckingham St",
+      "addresses": "18 Buckingham Ave.",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 3,
+      "wardName": "Etobicoke-Lakeshore",
+      "affordable": 37,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.49648717,
+        43.61904208
+      ]
+    },
+    {
+      "id": "P0298",
+      "address": "1750 The Queensway",
+      "addresses": "1750, 1800, 1830, 1850 AND 1900 The Queensway, 300, 310, 320 North Queen Street",
+      "status": "Planning Applications Under Review",
+      "ward": 3,
+      "wardName": "Etobicoke-Lakeshore",
+      "affordable": 200,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.55806417,
+        43.61554543
+      ]
+    },
+    {
+      "id": "P0038",
+      "address": "1750 Ellesmere Rd",
+      "addresses": "1750 Ellesmere Road",
+      "status": "Planning Applications Under Review",
+      "ward": 24,
+      "wardName": "Scarborough-Guildwood",
+      "affordable": 92,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.24663325,
+        43.77354895
+      ]
+    },
+    {
+      "id": "P0003",
+      "address": "175 Oak St",
+      "addresses": "175 Oak Street",
+      "status": "Occupied",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 24,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.36068734,
+        43.66185981
+      ]
+    },
+    {
+      "id": "P0289",
+      "address": "1746 Weston Rd",
+      "addresses": "1736-1746 Weston Rd",
+      "status": "Planning Applications Under Review",
+      "ward": 5,
+      "wardName": "York South-Weston",
+      "affordable": 105,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.51100457,
+        43.69789565
+      ]
+    },
+    {
+      "id": "P0115",
+      "address": "1731 Lawrence Ave E",
+      "addresses": "1731 Lawrence Avenue East",
+      "status": "Started Construction",
+      "ward": 21,
+      "wardName": "Scarborough Centre",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 95,
+      "supportive": 95,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.30817097,
+        43.74208978
+      ]
+    },
+    {
+      "id": "P0153",
+      "address": "1712 Ellesmere Rd",
+      "addresses": "1710-1712 Ellesmere Road",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 24,
+      "wardName": "Scarborough-Guildwood",
+      "affordable": 142,
+      "market": 139,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.24840851,
+        43.77365891
+      ]
+    },
+    {
+      "id": "P0266",
+      "address": "1 Eglinton Sq",
+      "addresses": "1-70 Eglinton Square, 1431 and 1437 Victoria Park Avenue, 14, 18, 19, 22, 23 and 26 Engelhart Crescent and 64 and 68 Harris Park Drive",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 20,
+      "wardName": "Scarborough Southwest",
+      "affordable": 85,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.30082274,
+        43.72300417
+      ]
+    },
+    {
+      "id": "P0308",
+      "address": "1693 Weston Rd",
+      "addresses": "1693-1709 Weston Roadand 10 Victoria Avenue East",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 5,
+      "wardName": "York South-Weston",
+      "affordable": 6,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.50865458,
+        43.69769524
+      ]
+    },
+    {
+      "id": "P0394",
+      "address": "1694 Queen St E",
+      "addresses": "1684, 1698, 1700 and 1702 Queen Street EastÂ ",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 19,
+      "wardName": "Beaches-East York",
+      "affordable": 3,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.31346439,
+        43.66740304
+      ]
+    },
+    {
+      "id": "P0310",
+      "address": "2600 Don Mills Rd",
+      "addresses": "1650 SHEPPARD AVE E, 2600 DON MILLS RD AND 25 LEITH HILL RD",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 17,
+      "wardName": "Don Valley North",
+      "affordable": 19,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.34860618,
+        43.77625096
+      ]
+    },
+    {
+      "id": "P0404",
+      "address": "1650 Sheppard Ave E",
+      "addresses": "1650 Sheppard Ave E",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 17,
+      "wardName": "Don Valley North",
+      "affordable": 10,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.34908051,
+        43.77512129
+      ]
+    },
+    {
+      "id": "P0345",
+      "address": "1630 Lawrence Ave W",
+      "addresses": "1635 Lawrence Ave West",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 5,
+      "wardName": "York South-Weston",
+      "affordable": 869,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.49223584,
+        43.70463403
+      ]
+    },
+    {
+      "id": "P0101",
+      "address": "1631 Queen St E",
+      "addresses": "1631-1641 Queen Street East",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 19,
+      "wardName": "Beaches-East York",
+      "affordable": 98,
+      "market": 186,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.31557687,
+        43.66630071
+      ]
+    },
+    {
+      "id": "P0100",
+      "address": "1627 Danforth Ave",
+      "addresses": "1627 Danforth Ave",
+      "status": "Pre-Planning",
+      "ward": 19,
+      "wardName": "Beaches-East York",
+      "affordable": 67,
+      "market": 133,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.32200658,
+        43.6831011
+      ]
+    },
+    {
+      "id": "P0099a",
+      "address": "158 Borough Dr",
+      "addresses": "158 Borough Drive",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 21,
+      "wardName": "Scarborough Centre",
+      "affordable": 35,
+      "market": 297,
+      "rgi": 93,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.25667572,
+        43.77269972
+      ]
+    },
+    {
+      "id": "P0099b",
+      "address": "158 Borough Dr",
+      "addresses": "158 Borough Drive",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 21,
+      "wardName": "Scarborough Centre",
+      "affordable": 101,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.25667572,
+        43.77269972
+      ]
+    },
+    {
+      "id": "P0042a",
+      "address": "1060 Eastern Ave (formerly 1555 Queen St E)",
+      "addresses": "1555 - 1575 Queen Street East",
+      "status": "Occupied",
+      "ward": 14,
+      "wardName": "Toronto-Danforth",
+      "affordable": 100,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.31698844,
+        43.66555914
+      ]
+    },
+    {
+      "id": "P0067",
+      "address": "165 Elm Ridge Dr",
+      "addresses": "155-165 Elm Ridge Dr",
+      "status": "Started Construction",
+      "ward": 8,
+      "wardName": "Eglinton-Lawrence",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 106,
+      "supportive": 106,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.43880165,
+        43.70243281
+      ]
+    },
+    {
+      "id": "P0062",
+      "address": "1552 Weston Rd",
+      "addresses": "1550 Weston Rd",
+      "status": "Started Construction",
+      "ward": 5,
+      "wardName": "York South-Weston",
+      "affordable": 50,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.50638607,
+        43.69443573
+      ]
+    },
+    {
+      "id": "P0297",
+      "address": "1540 Bloor St W",
+      "addresses": "1540-1550 Bloor Street West",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 4,
+      "wardName": "Parkdale-High Park",
+      "affordable": 14,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.4529346,
+        43.65642789
+      ]
+    },
+    {
+      "id": "P0152",
+      "address": "153 Eastern Ave",
+      "addresses": "153-185 Old Foundry Road",
+      "status": "Planning Applications Under Review",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 256,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.3560385,
+        43.6543731
+      ]
+    },
+    {
+      "id": "P0098",
+      "address": "150 Queens Wharf Rd",
+      "addresses": "150 Queens Wharf Road",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 27,
+      "market": 187,
+      "rgi": 54,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.39995208,
+        43.63983361
+      ]
+    },
+    {
+      "id": "P0025",
+      "address": "150 Eighth St",
+      "addresses": "150 Eighth St.",
+      "status": "Started Construction",
+      "ward": 3,
+      "wardName": "Etobicoke-Lakeshore",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 56,
+      "supportive": 56,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.50759301,
+        43.60214409
+      ]
+    },
+    {
+      "id": "P0360",
+      "address": "15 Toronto St",
+      "addresses": "15 Toronto Street",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 13,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.3759964,
+        43.65031607
+      ]
+    },
+    {
+      "id": "P0082",
+      "address": "15 Denison Ave",
+      "addresses": "15 Denison",
+      "status": "Pre-Planning",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 100,
+      "supportive": 100,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.40051597,
+        43.64841156
+      ]
+    },
+    {
+      "id": "P0154",
+      "address": "1499 Queen St W",
+      "addresses": "1499 Queen Street West",
+      "status": "Planning Applications Under Review",
+      "ward": 4,
+      "wardName": "Parkdale-High Park",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 63,
+      "supportive": 63,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.44040123,
+        43.63960048
+      ]
+    },
+    {
+      "id": "P0406",
+      "address": "1467 Bathurst St",
+      "addresses": "1467 Bathurst Street and 490 St Clair Avenue West",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 12,
+      "wardName": "Toronto-St. Paul's",
+      "affordable": 16,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.41810886,
+        43.68356354
+      ]
+    },
+    {
+      "id": "P0393",
+      "address": "146 Vaughan Rd",
+      "addresses": "146-150 Vaughan Road",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 12,
+      "wardName": "Toronto-St. Paul's",
+      "affordable": 6,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.42200717,
+        43.68525014
+      ]
+    },
+    {
+      "id": "P0188",
+      "address": "1430 Gerrard St E",
+      "addresses": "1430 Gerrard Street East",
+      "status": "Occupied",
+      "ward": 14,
+      "wardName": "Toronto-Danforth",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 23,
+      "supportive": 23,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.32229817,
+        43.67247682
+      ]
+    },
+    {
+      "id": "P0337",
+      "address": "1400 Victoria Park Ave",
+      "addresses": "1400, 1408 & 1410 Victoria Park Ave",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 19,
+      "wardName": "Beaches-East York",
+      "affordable": 19,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.30079556,
+        43.71870866
+      ]
+    },
+    {
+      "id": "P0110",
+      "address": "140 The Queensway",
+      "addresses": "140 the Queensway",
+      "status": "Started Construction",
+      "ward": 3,
+      "wardName": "Etobicoke-Lakeshore",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 38,
+      "supportive": 38,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.48358506,
+        43.6307302
+      ]
+    },
+    {
+      "id": "P0088",
+      "address": "140 Merton St",
+      "addresses": "140 Merton Street",
+      "status": "Issued Building Permit",
+      "ward": 12,
+      "wardName": "Toronto-St. Paul's",
+      "affordable": 83,
+      "market": 196,
+      "rgi": 15,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.39170541,
+        43.69754214
+      ]
+    },
+    {
+      "id": "P0108",
+      "address": "4201 Kingston Rd",
+      "addresses": "140 Galloway Road",
+      "status": "Started Construction",
+      "ward": 24,
+      "wardName": "Scarborough-Guildwood",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 68,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.19613217,
+        43.75941287
+      ]
+    },
+    {
+      "id": "P0217",
+      "address": "540 Cedarvale Ave",
+      "addresses": "14 Trenton/ 540 Cedarvale Avenue",
+      "status": "Occupied",
+      "ward": 19,
+      "wardName": "Beaches-East York",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 59,
+      "supportive": 59,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.31672339,
+        43.69838232
+      ]
+    },
+    {
+      "id": "P0057",
+      "address": "1375 Queen St W",
+      "addresses": "1375 Queen Street West",
+      "status": "Building Permit Application",
+      "ward": 4,
+      "wardName": "Parkdale-High Park",
+      "affordable": 13,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.43563907,
+        43.64062881
+      ]
+    },
+    {
+      "id": "P0022",
+      "address": "136 Kingston Rd",
+      "addresses": "136 Kingston Rd.",
+      "status": "Occupied",
+      "ward": 19,
+      "wardName": "Beaches-East York",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 24,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.31162559,
+        43.67072535
+      ]
+    },
+    {
+      "id": "P0068",
+      "address": "1325 Queen St W",
+      "addresses": "1337 Queen St. W",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 4,
+      "wardName": "Parkdale-High Park",
+      "affordable": 0,
+      "market": 78,
+      "rgi": 88,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.43392141,
+        43.64083298
+      ]
+    },
+    {
+      "id": "P0157",
+      "address": "1337 King St W",
+      "addresses": "1337 King Street West",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 4,
+      "wardName": "Parkdale-High Park",
+      "affordable": 82,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.43246861,
+        43.63768587
+      ]
+    },
+    {
+      "id": "P0331",
+      "address": "1319 Bloor St W",
+      "addresses": "1319 Bloor Street West",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 9,
+      "wardName": "Davenport",
+      "affordable": 15,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.44431561,
+        43.65740673
+      ]
+    },
+    {
+      "id": "P0342",
+      "address": "1306 The Queensway",
+      "addresses": "1306-1310 The Queensway",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 3,
+      "wardName": "Etobicoke-Lakeshore",
+      "affordable": 12,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.52779671,
+        43.62147385
+      ]
+    },
+    {
+      "id": "P0287",
+      "address": "1325 Queen St W",
+      "addresses": "1303 Queen St W",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 4,
+      "wardName": "Parkdale-High Park",
+      "affordable": 18,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.43264741,
+        43.64114231
+      ]
+    },
+    {
+      "id": "P0001a",
+      "address": "130 Augusta Ave",
+      "addresses": "130 Augusta Avenue",
+      "status": "Occupied",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 4,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.40121902,
+        43.65176198
+      ]
+    },
+    {
+      "id": "P0165",
+      "address": "1291 Gerrard St E",
+      "addresses": "1291-1311 Gerrard Street East and 243-247 Greenwood Avenue",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 14,
+      "wardName": "Toronto-Danforth",
+      "affordable": 6,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.3274504,
+        43.67088783
+      ]
+    },
+    {
+      "id": "P0372",
+      "address": "1286 Bloor St W",
+      "addresses": "1286 Bloor Street W",
+      "status": "Planning Applications Under Review",
+      "ward": 9,
+      "wardName": "Davenport",
+      "affordable": 8,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.44194774,
+        43.65867429
+      ]
+    },
+    {
+      "id": "P0147",
+      "address": "128 Havelock St",
+      "addresses": "128 Havelock Street",
+      "status": "Started Construction",
+      "ward": 9,
+      "wardName": "Davenport",
+      "affordable": 10,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.43097615,
+        43.65617587
+      ]
+    },
+    {
+      "id": "P0294",
+      "address": "126 Laird Dr",
+      "addresses": "126-132 Laird Drive and 134 Laird Drive, Toronto, ON. M4G 3V3 and M4G 3V7",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 15,
+      "wardName": "Don Valley West",
+      "affordable": 44,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.36246787,
+        43.70710913
+      ]
+    },
+    {
+      "id": "P0092",
+      "address": "1250 Eglinton Ave W",
+      "addresses": "1250 Eglinton Avenue West",
+      "status": "Pre-Planning",
+      "ward": 8,
+      "wardName": "Eglinton-Lawrence",
+      "affordable": 80,
+      "market": 160,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.43482852,
+        43.69928433
+      ]
+    },
+    {
+      "id": "P0131",
+      "address": "125 George St",
+      "addresses": "125 George St.",
+      "status": "Started Construction",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 7,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.37127918,
+        43.65273923
+      ]
+    },
+    {
+      "id": "P0301",
+      "address": "213 Emerson Ave",
+      "addresses": "1245 Dupont Street, 213 Emerson Avenue, 1260 Dufferin Street",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 9,
+      "wardName": "Davenport",
+      "affordable": 32,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.43786983,
+        43.66644261
+      ]
+    },
+    {
+      "id": "P0419",
+      "address": "1243 Islington Ave",
+      "addresses": "1243 Islington Avenue",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 3,
+      "wardName": "Etobicoke-Lakeshore",
+      "affordable": 21,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.5246696,
+        43.64779861
+      ]
+    },
+    {
+      "id": "P0111",
+      "address": "1240 Weston Rd",
+      "addresses": "1240, 1246, 1250 Weston Road",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 5,
+      "wardName": "York South-Weston",
+      "affordable": 11,
+      "market": 58,
+      "rgi": 59,
+      "supportive": 59,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.49346772,
+        43.68807202
+      ]
+    },
+    {
+      "id": "P0349",
+      "address": "124 Broadway Ave",
+      "addresses": "124 & 136 Broadway Avenue",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 15,
+      "wardName": "Don Valley West",
+      "affordable": 30,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.3925063,
+        43.7113648
+      ]
+    },
+    {
+      "id": "P0350",
+      "address": "123 Garratt Blvd",
+      "addresses": "123 Garratt Boulevard",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 6,
+      "wardName": "York Centre",
+      "affordable": 295,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.47141466,
+        43.73582379
+      ]
+    },
+    {
+      "id": "P0114",
+      "address": "1229 Queen St W",
+      "addresses": "1229 Queen Street West",
+      "status": "Planning Applications Under Review",
+      "ward": 4,
+      "wardName": "Parkdale-High Park",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 55,
+      "supportive": 55,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.42941893,
+        43.64183171
+      ]
+    },
+    {
+      "id": "P0359",
+      "address": "120 Bouchette St",
+      "addresses": "120 Bouchette St.",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 14,
+      "wardName": "Toronto-Danforth",
+      "affordable": 114,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.3417987,
+        43.65239864
+      ]
+    },
+    {
+      "id": "P0151",
+      "address": "118 Havelock St",
+      "addresses": "118 Havelock",
+      "status": "Pre-Planning",
+      "ward": 9,
+      "wardName": "Davenport",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 15,
+      "supportive": 15,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.43080771,
+        43.65581267
+      ]
+    },
+    {
+      "id": "P0034",
+      "address": "21 Windermere Ave",
+      "addresses": "1-154 Swansea Mews",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 4,
+      "wardName": "Parkdale-High Park",
+      "affordable": 41,
+      "market": 454,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.46994598,
+        43.6383367
+      ]
+    },
+    {
+      "id": "P0392",
+      "address": "115 Saulter St S",
+      "addresses": "115 Saulter Street South",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 14,
+      "wardName": "Toronto-Danforth",
+      "affordable": 67,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.34272867,
+        43.65112779
+      ]
+    },
+    {
+      "id": "P0369",
+      "address": "11 Hollis St",
+      "addresses": "11-23 Hollis St.",
+      "status": "Planning Applications Under Review",
+      "ward": 5,
+      "wardName": "York South-Weston",
+      "affordable": 76,
+      "market": 304,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.48918174,
+        43.68768968
+      ]
+    },
+    {
+      "id": "P0024",
+      "address": "1120 Ossington Ave",
+      "addresses": "1120 Ossington Ave",
+      "status": "Occupied",
+      "ward": 9,
+      "wardName": "Davenport",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 26,
+      "supportive": 26,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.43018233,
+        43.67193095
+      ]
+    },
+    {
+      "id": "P0118",
+      "address": "1117 Danforth Ave",
+      "addresses": "1117 Danforth Avenue",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 14,
+      "wardName": "Toronto-Danforth",
+      "affordable": 40,
+      "market": 41,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.33432932,
+        43.68080238
+      ]
+    },
+    {
+      "id": "P0122",
+      "address": "1113 Dundas St W",
+      "addresses": "1113-1125 Dundas St W",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 7,
+      "market": 51,
+      "rgi": 16,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.41971078,
+        43.64933983
+      ]
+    },
+    {
+      "id": "P0338",
+      "address": "111 Peter St",
+      "addresses": "111 Peter Street",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 24,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.39258257,
+        43.6479615
+      ]
+    },
+    {
+      "id": "P0218",
+      "address": "11 Macey Ave",
+      "addresses": "11 Macey Avenue",
+      "status": "Occupied",
+      "ward": 20,
+      "wardName": "Scarborough Southwest",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 56,
+      "supportive": 56,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.28670009,
+        43.69269842
+      ]
+    },
+    {
+      "id": "P0049",
+      "address": "11 Brock Ave",
+      "addresses": "11 Brock Avenue",
+      "status": "Started Construction",
+      "ward": 4,
+      "wardName": "Parkdale-High Park",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 42,
+      "supportive": 42,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.43223721,
+        43.64211479
+      ]
+    },
+    {
+      "id": "P0189",
+      "address": "1080 Queen St E",
+      "addresses": "1080 Queen St. E",
+      "status": "Occupied",
+      "ward": 14,
+      "wardName": "Toronto-Danforth",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 9,
+      "supportive": 9,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.33645567,
+        43.66209667
+      ]
+    },
+    {
+      "id": "P0343",
+      "address": "1025 The Queensway",
+      "addresses": "1025 The Queensway",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 3,
+      "wardName": "Etobicoke-Lakeshore",
+      "affordable": 204,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.51581158,
+        43.62083593
+      ]
+    },
+    {
+      "id": "P0290",
+      "address": "100 Broadway Ave",
+      "addresses": "100-120 Broadway Avenue",
+      "status": "Occupied",
+      "ward": 15,
+      "wardName": "Don Valley West",
+      "affordable": 24,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.3937268,
+        43.7110241
+      ]
+    },
+    {
+      "id": "P0354",
+      "address": "1 Close Ave",
+      "addresses": "1&3 Close Avenue, 78 Springhurst Avenue",
+      "status": "Planning Applications Under Review",
+      "ward": 4,
+      "wardName": "Parkdale-High Park",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 54,
+      "supportive": 54,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.43311447,
+        43.63388686
+      ]
+    },
+    {
+      "id": "P0050a",
+      "address": "3 Marsh Grassway",
+      "addresses": "1 Dune Grassway (Formerly 3 Marsh Grassways)",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 7,
+      "wardName": "Humber River-Black Creek",
+      "affordable": 107,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.51711196,
+        43.75073136
+      ]
+    },
+    {
+      "id": "P0226",
+      "address": "3741 Bloor St W",
+      "addresses": "970 Kipling Ave",
+      "status": "Pre-Planning",
+      "ward": 3,
+      "wardName": "Etobicoke-Lakeshore",
+      "affordable": 260,
+      "market": 490,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.53339886,
+        43.64010721
+      ]
+    },
+    {
+      "id": "P0030a",
+      "address": "591 Dundas St E",
+      "addresses": "591 Dundas St E",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 501,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.3653393,
+        43.66193657
+      ]
+    },
+    {
+      "id": "P0091b",
+      "address": "3326 Bloor St W",
+      "addresses": "3326 Bloor Street W",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 3,
+      "wardName": "Etobicoke-Lakeshore",
+      "affordable": 380,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.52539249,
+        43.64459812
+      ]
+    },
+    {
+      "id": "P0185a",
+      "address": "877 Yonge St",
+      "addresses": "877 Yonge Street",
+      "status": "Occupied",
+      "ward": 11,
+      "wardName": "University-Rosedale",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 88,
+      "supportive": 88,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.3879726,
+        43.67424895
+      ]
+    },
+    {
+      "id": "P0219",
+      "address": "321 Dovercourt Rd",
+      "addresses": "231 Dovercourt Road",
+      "status": "Occupied",
+      "ward": 9,
+      "wardName": "Davenport",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 44,
+      "supportive": 44,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.42494999,
+        43.65067783
+      ]
+    },
+    {
+      "id": "P0220",
+      "address": "218 Carlton St",
+      "addresses": "218 Carlton",
+      "status": "Occupied",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 9,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.36973264,
+        43.66413311
+      ]
+    },
+    {
+      "id": "P0221",
+      "address": "292 Parliament St",
+      "addresses": "292 Parliament Street",
+      "status": "Occupied",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 24,
+      "supportive": 24,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.36599037,
+        43.65865898
+      ]
+    },
+    {
+      "id": "P0222",
+      "address": "425 Coxwell Ave",
+      "addresses": "419 Coxwell Avenue",
+      "status": "Occupied",
+      "ward": 19,
+      "wardName": "Beaches-East York",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 12,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.32051295,
+        43.67724621
+      ]
+    },
+    {
+      "id": "P0229",
+      "address": "4626 Kingston Rd",
+      "addresses": "4626 Kingston Road",
+      "status": "Occupied",
+      "ward": 25,
+      "wardName": "Scarborough-Rouge Park",
+      "affordable": 0,
+      "market": 0,
+      "rgi": 22,
+      "supportive": 22,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.18001146,
+        43.77556044
+      ]
+    },
+    {
+      "id": "P0231",
+      "address": "161 Spadina Rd",
+      "addresses": "161 Spadina Road",
+      "status": "Occupied",
+      "ward": 11,
+      "wardName": "University-Rosedale",
+      "affordable": 10,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.40593807,
+        43.67266388
+      ]
+    },
+    {
+      "id": "P0232",
+      "address": "299 Campbell Ave",
+      "addresses": "299 Campbell Avenue",
+      "status": "Occupied",
+      "ward": 9,
+      "wardName": "Davenport",
+      "affordable": 10,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.449485,
+        43.66565286
+      ]
+    },
+    {
+      "id": "P0234",
+      "address": "130 River St",
+      "addresses": "130 River Street",
+      "status": "Occupied",
+      "ward": 13,
+      "wardName": "Toronto Centre",
+      "affordable": 3,
+      "market": 0,
+      "rgi": 5,
+      "supportive": 5,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.35857944,
+        43.66148426
+      ]
+    },
+    {
+      "id": "P0235",
+      "address": "34 Kessack Crt",
+      "addresses": "34 Kessack Court",
+      "status": "Occupied",
+      "ward": 25,
+      "wardName": "Scarborough-Rouge Park",
+      "affordable": 2,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.21690349,
+        43.80057372
+      ]
+    },
+    {
+      "id": "P0257",
+      "address": "Ookwemin Minising",
+      "addresses": "Ookwemin Minising",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 14,
+      "wardName": "Toronto-Danforth",
+      "affordable": 1214,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": true,
+      "coordinates": [
+        -79.35244316,
+        43.64578137
+      ]
+    },
+    {
+      "id": "P0348",
+      "address": "152 Bathurst St",
+      "addresses": "152 Bathurst Street",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 10,
+      "wardName": "Spadina-Fort York",
+      "affordable": 9,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.40423195,
+        43.64620212
+      ]
+    },
+    {
+      "id": "P0347",
+      "address": "123 Parkway Forest Dr",
+      "addresses": "123 Parkway Forest Drive",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 17,
+      "wardName": "Don Valley North",
+      "affordable": 6,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.34174216,
+        43.77555918
+      ]
+    },
+    {
+      "id": "P0233",
+      "address": "1072 Bathurst St",
+      "addresses": "1072 Bathurst Street",
+      "status": "Occupied",
+      "ward": 11,
+      "wardName": "University-Rosedale",
+      "affordable": 2,
+      "market": 0,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.41433883,
+        43.67238403
+      ]
+    },
+    {
+      "id": "P0055",
+      "address": "80 Dale Avenue",
+      "addresses": "80 Dale Avenue",
+      "status": "Approved OPAs and Zoning By-Law Amendments",
+      "ward": 24,
+      "wardName": "Scarborough-Guildwood",
+      "affordable": 0,
+      "market": 198,
+      "rgi": 0,
+      "supportive": 0,
+      "torontoBuilds": false,
+      "coordinates": [
+        -79.2057405,
+        43.75275125
+      ]
+    }
+  ]
+}
