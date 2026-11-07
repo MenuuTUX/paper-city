@@ -1,11 +1,11 @@
 {
-  "repo_path": "/Users/shib/Downloads/hack",
+  "repo_path": "/path/to/hack",
   "scan_time_s": 2.2274320125579834,
   "total_files": 15,
   "scanned_files": 14,
   "issues": [
     {
-      "file_path": "/Users/shib/Downloads/hack/components/housing-map.tsx",
+      "file_path": "/path/to/hack/components/housing-map.tsx",
       "line_start": 5,
       "line_end": 5,
       "severity": "HIGH",
@@ -20,7 +20,7 @@
       "applied": false
     },
     {
-      "file_path": "/Users/shib/Downloads/hack/app/taste.css",
+      "file_path": "/path/to/hack/app/taste.css",
       "line_start": 63,
       "line_end": 63,
       "severity": "LOW",
@@ -35,7 +35,7 @@
       "applied": false
     },
     {
-      "file_path": "/Users/shib/Downloads/hack/app/taste.css",
+      "file_path": "/path/to/hack/app/taste.css",
       "line_start": 1,
       "line_end": 1,
       "severity": "MEDIUM",
